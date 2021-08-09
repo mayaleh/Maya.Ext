@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+		<Authors>Salim Mayaleh</Authors>
+		  <Description>Maya.Ext is an extension library includes useful utils suitable for all projects.</Description>
+		  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+		  <NeutralLanguage>en</NeutralLanguage>
+  </PropertyGroup>
+
+</Project>
