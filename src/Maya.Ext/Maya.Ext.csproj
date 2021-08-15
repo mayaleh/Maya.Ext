@@ -3,9 +3,26 @@
 	<PropertyGroup>
 		<TargetFramework>net5.0</TargetFramework>
 		<Authors>Salim Mayaleh</Authors>
-		  <Description>Maya.Ext is an extension library includes useful utils suitable for all projects.</Description>
-		  <PackageLicenseExpression>MIT</PackageLicenseExpression>
-		  <NeutralLanguage>en</NeutralLanguage>
-  </PropertyGroup>
+		<Title>Maya.Ext</Title>
+		<PackageId>Maya.Ext</PackageId>
+		<Description>Maya.Ext is an extension library includes useful utils suitable for all projects.</Description>
+		<Summary>Extension library.</Summary>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<NeutralLanguage>en</NeutralLanguage>
+		
+		<Deterministic>true</Deterministic>
+		<EmbedUntrackedSources>true</EmbedUntrackedSources>
+		<ContinuousIntegrationBuild>true</ContinuousIntegrationBuild>
+		<DebugType>embedded</DebugType>
+		<AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder>
+		<PublishRepositoryUrl>true</PublishRepositoryUrl>
+	</PropertyGroup>
 
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+	</ItemGroup>
 </Project>
