@@ -13,11 +13,14 @@ namespace Maya.Ext.Func.Rop
             Action<TFailure> onFailure)
         {
             if (result.IsSuccess)
+            {
                 onSuccess(result.Success);
-            else
-                onFailure(result.Failure);
+                return Unit.Default;
+            }
 
+            onFailure(result.Failure);
             return Unit.Default;
+
         }
 
         public static Result<TSuccess2, TFailure2> Either<TSuccess, TFailure, TSuccess2, TFailure2>(
@@ -56,7 +59,7 @@ namespace Maya.Ext.Func.Rop
             this Result<TSuccess, TFailure[]> x)
         {
             return x.Either(
-                a => Result<TSuccess, TFailure[]>.Failed(new TFailure[0]),
+                a => Result<TSuccess, TFailure[]>.Failed(Array.Empty<TFailure>()),
                 b => b
                 );
         }
@@ -83,7 +86,7 @@ namespace Maya.Ext.Func.Rop
         public static Result<TSuccess[], TFailure[]> Aggregate<TSuccess, TFailure>(
             this IEnumerable<Result<TSuccess, TFailure[]>> accumulator)
         {
-            var emptySuccess = Result<TSuccess[], TFailure[]>.Succeeded(new TSuccess[0]);
+            var emptySuccess = Result<TSuccess[], TFailure[]>.Succeeded(Array.Empty<TSuccess>());
             return accumulator.Aggregate(emptySuccess, (acc, o) => acc.Merge(o));
         }
 

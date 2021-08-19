@@ -16,10 +16,10 @@ namespace Maya.Ext.Rop
             return success == null
                 ? throw new ArgumentNullException(nameof(success))
                 : new Result<TSuccess, TFailure>
-            {
-                IsSuccessful = true,
-                Success = success
-            };
+                {
+                    IsSuccessful = true,
+                    Success = success
+                };
         }
 
         public static Result<TSuccess, TFailure> Failed(TFailure failure)
@@ -27,10 +27,10 @@ namespace Maya.Ext.Rop
             return failure == null
                 ? throw new ArgumentNullException(nameof(failure))
                 : new Result<TSuccess, TFailure>
-            {
-                IsSuccessful = false,
-                Failure = failure
-            };
+                {
+                    IsSuccessful = false,
+                    Failure = failure
+                };
         }
 
         private Result()

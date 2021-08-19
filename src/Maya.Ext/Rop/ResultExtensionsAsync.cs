@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 
 namespace Maya.Ext.Rop
 {
-    
+
     public static class ResultExtensionsAsync
     {
         public static async Task<Result<TSuccess2, TFailure2>> EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(
@@ -20,27 +20,26 @@ namespace Maya.Ext.Rop
         {
             if (resultIn == null)
             {
-                throw new ArgumentNullException("resultIn");
+                throw new ArgumentNullException(nameof(resultIn));
             }
 
             if (onSuccess == null)
             {
-                throw new ArgumentNullException("onSuccess");
+                throw new ArgumentNullException(nameof(onSuccess));
             }
 
             if (onFailure == null)
             {
-                throw new ArgumentNullException("onFailure");
+                throw new ArgumentNullException(nameof(onFailure));
             }
 
             if (resultIn.IsSuccess)
             {
                 await onSuccess(resultIn.Success).ConfigureAwait(continueOnCapturedContext);
+                return;
             }
-            else
-            {
-                onFailure(resultIn.Failure);
-            }
+
+            onFailure(resultIn.Failure);
         }
 
         public static async Task HandleAsync<TSuccess, TFailure>(this Task<Result<TSuccess, TFailure>> resultIn, Func<TSuccess, Task> onSuccess, Action<TFailure> onFailure, bool continueOnCapturedContext = false)
@@ -49,12 +48,12 @@ namespace Maya.Ext.Rop
 
             if (onSuccess == null)
             {
-                throw new ArgumentNullException("onSuccess");
+                throw new ArgumentNullException(nameof(onSuccess));
             }
 
             if (onFailure == null)
             {
-                throw new ArgumentNullException("onFailure");
+                throw new ArgumentNullException(nameof(onFailure));
             }
 
             await (await resultIn.ConfigureAwait(continueOnCapturedContext)).HandleAsync(onSuccess, onFailure, continueOnCapturedContext).ConfigureAwait(continueOnCapturedContext);
@@ -64,12 +63,12 @@ namespace Maya.Ext.Rop
         {
             if (resultIn == null)
             {
-                throw new ArgumentNullException("resultIn");
+                throw new ArgumentNullException(nameof(resultIn));
             }
 
             if (mapTo == null)
             {
-                throw new ArgumentNullException("mapTo");
+                throw new ArgumentNullException(nameof(mapTo));
             }
 
             return (!resultIn.IsSuccess) ? Result<TSuccessNew, TFailure>.Failed(resultIn.Failure) : Result<TSuccessNew, TFailure>.Succeeded(await mapTo(resultIn.Success).ConfigureAwait(continueOnCapturedContext));
@@ -81,7 +80,7 @@ namespace Maya.Ext.Rop
 
             if (mapTo == null)
             {
-                throw new ArgumentNullException("mapTo");
+                throw new ArgumentNullException(nameof(mapTo));
             }
 
             return await (await resultInTask.ConfigureAwait(continueOnCapturedContext)).MapAsync(mapTo, continueOnCapturedContext).ConfigureAwait(continueOnCapturedContext);
@@ -91,12 +90,12 @@ namespace Maya.Ext.Rop
         {
             if (resultIn == null)
             {
-                throw new ArgumentNullException("resultIn");
+                throw new ArgumentNullException(nameof(resultIn));
             }
 
             if (bindTo == null)
             {
-                throw new ArgumentNullException("bindTo");
+                throw new ArgumentNullException(nameof(bindTo));
             }
 
             return (!resultIn.IsSuccess) ? Result<TSuccessNew, TFailure>.Failed(resultIn.Failure) : (await bindTo(resultIn.Success).ConfigureAwait(continueOnCapturedContext));
@@ -108,7 +107,7 @@ namespace Maya.Ext.Rop
 
             if (bindTo == null)
             {
-                throw new ArgumentNullException("bindTo");
+                throw new ArgumentNullException(nameof(bindTo));
             }
 
             return await (await resultInTask.ConfigureAwait(continueOnCapturedContext)).BindAsync(bindTo, continueOnCapturedContext).ConfigureAwait(continueOnCapturedContext);
@@ -118,17 +117,17 @@ namespace Maya.Ext.Rop
         {
             if (resultIn == null)
             {
-                throw new ArgumentNullException("resultIn");
+                throw new ArgumentNullException(nameof(resultIn));
             }
 
             if (onSuccess == null)
             {
-                throw new ArgumentNullException("onSuccess");
+                throw new ArgumentNullException(nameof(onSuccess));
             }
 
             if (onFailure == null)
             {
-                throw new ArgumentNullException("onFailure");
+                throw new ArgumentNullException(nameof(onFailure));
             }
 
             return (!resultIn.IsSuccess) ? (await onFailure(resultIn.Failure).ConfigureAwait(continueOnCapturedContext)) : (await onSuccess(resultIn.Success).ConfigureAwait(continueOnCapturedContext));
@@ -140,12 +139,12 @@ namespace Maya.Ext.Rop
 
             if (onSuccess == null)
             {
-                throw new ArgumentNullException("onSuccess");
+                throw new ArgumentNullException(nameof(onSuccess));
             }
 
             if (onFailure == null)
             {
-                throw new ArgumentNullException("onFailure");
+                throw new ArgumentNullException(nameof(onFailure));
             }
 
             return await (await resultInTask.ConfigureAwait(continueOnCapturedContext)).EitherAsync(onSuccess, onFailure, continueOnCapturedContext).ConfigureAwait(continueOnCapturedContext);
@@ -155,12 +154,12 @@ namespace Maya.Ext.Rop
         {
             if (resultIn == null)
             {
-                throw new ArgumentNullException("resultIn");
+                throw new ArgumentNullException(nameof(resultIn));
             }
 
             if (runOnSuccess == null)
             {
-                throw new ArgumentNullException("runOnSuccess");
+                throw new ArgumentNullException(nameof(runOnSuccess));
             }
 
             if (!resultIn.IsFailure)
@@ -175,7 +174,7 @@ namespace Maya.Ext.Rop
 
             if (runOnSuccess == null)
             {
-                throw new ArgumentNullException("runOnSuccess");
+                throw new ArgumentNullException(nameof(runOnSuccess));
             }
 
             await (await resultInTask.ConfigureAwait(continueOnCapturedContext)).MatchSuccessAsync(runOnSuccess, continueOnCapturedContext).ConfigureAwait(continueOnCapturedContext);
@@ -185,12 +184,12 @@ namespace Maya.Ext.Rop
         {
             if (resultIn == null)
             {
-                throw new ArgumentNullException("resultIn");
+                throw new ArgumentNullException(nameof(resultIn));
             }
 
             if (runOnFailure == null)
             {
-                throw new ArgumentNullException("runOnFailure");
+                throw new ArgumentNullException(nameof(runOnFailure));
             }
 
             if (!resultIn.IsSuccess)
@@ -205,7 +204,7 @@ namespace Maya.Ext.Rop
 
             if (runOnFailure == null)
             {
-                throw new ArgumentNullException("runOnFailure");
+                throw new ArgumentNullException(nameof(runOnFailure));
             }
 
             await (await resultInTask.ConfigureAwait(continueOnCapturedContext)).MatchFailureAsync(runOnFailure, continueOnCapturedContext).ConfigureAwait(continueOnCapturedContext);
@@ -215,7 +214,7 @@ namespace Maya.Ext.Rop
         {
             resultIn.CheckNotNullOrThrow();
 
-            Result<TSuccess, TFailure> result = await resultIn.ConfigureAwait(continueOnCapturedContext);
+            var result = await resultIn.ConfigureAwait(continueOnCapturedContext);
             return result.IsSuccess ? result.Success : alternative;
         }
 
@@ -225,10 +224,10 @@ namespace Maya.Ext.Rop
 
             if (runOnSuccess == null)
             {
-                throw new ArgumentNullException("runOnSuccess");
+                throw new ArgumentNullException(nameof(runOnSuccess));
             }
 
-            Result<TSuccess, TFailure> result = await resultIn.ConfigureAwait(continueOnCapturedContext);
+            var result = await resultIn.ConfigureAwait(continueOnCapturedContext);
             if (result.IsSuccess)
             {
                 await runOnSuccess(result.Success).ConfigureAwait(continueOnCapturedContext);
@@ -243,10 +242,10 @@ namespace Maya.Ext.Rop
 
             if (runOnSuccess == null)
             {
-                throw new ArgumentNullException("runOnSuccess");
+                throw new ArgumentNullException(nameof(runOnSuccess));
             }
 
-            Result<TSuccess, TFailure> result = await resultIn.ConfigureAwait(continueOnCapturedContext);
+            var result = await resultIn.ConfigureAwait(continueOnCapturedContext);
             if (result.IsSuccess)
             {
                 runOnSuccess(result.Success);
@@ -261,10 +260,10 @@ namespace Maya.Ext.Rop
 
             if (runOnFailure == null)
             {
-                throw new ArgumentNullException("runOnFailure");
+                throw new ArgumentNullException(nameof(runOnFailure));
             }
 
-            Result<TSuccess, TFailure> result = await resultIn.ConfigureAwait(continueOnCapturedContext);
+            var result = await resultIn.ConfigureAwait(continueOnCapturedContext);
             if (result.IsFailure)
             {
                 await runOnFailure(result.Failure).ConfigureAwait(continueOnCapturedContext);
@@ -280,10 +279,10 @@ namespace Maya.Ext.Rop
 
             if (runOnFailure == null)
             {
-                throw new ArgumentNullException("runOnFailure");
+                throw new ArgumentNullException(nameof(runOnFailure));
             }
 
-            Result<TSuccess, TFailure> result = await resultIn.ConfigureAwait(continueOnCapturedContext);
+            var result = await resultIn.ConfigureAwait(continueOnCapturedContext);
             if (result.IsFailure)
             {
                 runOnFailure(result.Failure);

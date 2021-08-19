@@ -102,7 +102,7 @@ dotnet_style_prefer_is_null_check_over_reference_equality_method = true:warning
 dotnet_style_prefer_conditional_expression_over_assignment = true:warning
 
 #Prefer return statements to use a ternary conditional over an if-else statement
-dotnet_style_prefer_conditional_expression_over_return = true:warning
+dotnet_style_prefer_conditional_expression_over_return = false:warning
 
 #Prefer compound assignment expressions
 dotnet_style_prefer_compound_assignment = true:warning
@@ -116,3 +116,12 @@ dotnet_style_null_propagation = true:warning
 dotnet_code_quality_unused_parameters = all:warning
 
 csharp_using_directive_placement = outside_namespace:warning
+dotnet_diagnostic.CA1507.severity=warning
+dotnet_diagnostic.CA2016.severity=warning
+[*.{cs,vb}]
+dotnet_diagnostic.CA1806.severity=warning
+dotnet_diagnostic.CA1821.severity=warning
+dotnet_diagnostic.CA1827.severity=warning
+dotnet_diagnostic.CA1828.severity=warning
+dotnet_diagnostic.CA2012.severity=warning
+dotnet_diagnostic.CA2009.severity=warning

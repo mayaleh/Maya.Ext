@@ -10,7 +10,7 @@ namespace Maya.Ext
     [Serializable]
     public struct Unit : IEquatable<Unit>
     {
-        public static readonly Unit Default = new Unit();
+        public static readonly Unit Default = new();
 
         public override int GetHashCode()
         {
@@ -26,6 +26,20 @@ namespace Maya.Ext
         {
             return "()";
         }
-            
+
+        public override bool Equals(object obj)
+        {
+            return obj is Unit unit && this.Equals(unit);
+        }
+
+        public static bool operator ==(Unit left, Unit right)
+        {
+            return left.Equals(right);
+        }
+
+        public static bool operator !=(Unit left, Unit right)
+        {
+            return !(left == right);
+        }
     }
 }
