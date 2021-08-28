@@ -31,7 +31,8 @@
           "articles/**.md",
           "articles/**/toc.yml",
           "toc.yml",
-          "*.md"
+          "**.md",
+          "index.md"
         ]
       }
     ],
@@ -63,7 +64,7 @@
     "markdownEngineName": "markdig",
     "noLangKeyword": false,
     "keepFileLink": false,
-    "cleanupCacheHistory": false,
+    "cleanupCacheHistory": true,
     "disableGitFeatures": false
   }
 }
