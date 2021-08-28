@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		nuget.config = nuget.config
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maya.Ext.Tests", "..\tests\Maya.Ext.Tests\Maya.Ext.Tests.csproj", "{230422F5-5ED4-4557-907E-F1B3AF2230FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,9 +39,24 @@ Global
 		{9EA11083-2114-4706-8C2D-9555BCEA2654}.Release|x64.Build.0 = Release|Any CPU
 		{9EA11083-2114-4706-8C2D-9555BCEA2654}.Release|x86.ActiveCfg = Release|Any CPU
 		{9EA11083-2114-4706-8C2D-9555BCEA2654}.Release|x86.Build.0 = Release|Any CPU
+		{230422F5-5ED4-4557-907E-F1B3AF2230FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230422F5-5ED4-4557-907E-F1B3AF2230FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230422F5-5ED4-4557-907E-F1B3AF2230FE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{230422F5-5ED4-4557-907E-F1B3AF2230FE}.Debug|x64.Build.0 = Debug|Any CPU
+		{230422F5-5ED4-4557-907E-F1B3AF2230FE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{230422F5-5ED4-4557-907E-F1B3AF2230FE}.Debug|x86.Build.0 = Debug|Any CPU
+		{230422F5-5ED4-4557-907E-F1B3AF2230FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230422F5-5ED4-4557-907E-F1B3AF2230FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230422F5-5ED4-4557-907E-F1B3AF2230FE}.Release|x64.ActiveCfg = Release|Any CPU
+		{230422F5-5ED4-4557-907E-F1B3AF2230FE}.Release|x64.Build.0 = Release|Any CPU
+		{230422F5-5ED4-4557-907E-F1B3AF2230FE}.Release|x86.ActiveCfg = Release|Any CPU
+		{230422F5-5ED4-4557-907E-F1B3AF2230FE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{230422F5-5ED4-4557-907E-F1B3AF2230FE} = {0BA91B17-7DB2-4D58-A2CE-228BDBDF659F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FCA3F2C5-D400-4F66-BD50-5BBD1723AFA0}
