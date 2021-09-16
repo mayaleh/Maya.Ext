@@ -2,16 +2,16 @@
 
 utils package for more pleasant coding in C#.
 
-## ROP
+[![NuGet](https://img.shields.io/nuget/v/Maya.Ext.svg)](https://www.nuget.org/packages/Maya.Ext)
 
-Railway oriented programming extensions.
+## Get it
 
-## ActionAsync
+Install Maya.Ext from the package manager console:
 
-Generated async action.
+```
+PM> Install-Package Maya.Ext
+```
 
-## Utils
 
-simple and basic utils.
-
-- Unit type to avoid using "void"
+## Usages
+[Introduction](https://mayaleh.github.io/Maya.Ext/articles/intro.html)
