@@ -11,9 +11,25 @@ namespace Maya.Ext.Rop
             Action<TSuccess> onSuccess,
             Action<TFailure> onFailure)
         {
+            if (result == null)
+            {
+                throw new ArgumentNullException(nameof(result));
+            }
+
+            if (onSuccess == null)
+            {
+                throw new ArgumentNullException(nameof(onSuccess));
+            }
+
+            if (onFailure == null)
+            {
+                throw new ArgumentNullException(nameof(onFailure));
+            }
+
             if (result.IsSuccess)
             {
                 onSuccess(result.Success);
+                return;
             }
 
             onFailure(result.Failure);
