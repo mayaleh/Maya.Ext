@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics.CodeAnalysis;
 
 namespace Maya.Ext
 {
@@ -27,7 +28,7 @@ namespace Maya.Ext
             return "()";
         }
 
-        public override bool Equals(object obj)
+        public override bool Equals([NotNullWhen(true)] object? obj)
         {
             return obj is Unit unit && this.Equals(unit);
         }

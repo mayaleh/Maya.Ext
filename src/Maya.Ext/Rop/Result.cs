@@ -37,13 +37,14 @@ namespace Maya.Ext.Rop
         {
         }
 
-
         public bool IsSuccess => IsSuccessful;
 
         public bool IsFailure => !IsSuccessful;
 
         public TSuccess Success { get; private set; }
+
         public TFailure Failure { get; private set; }
+
         private bool IsSuccessful { get; set; }
     }
 }
