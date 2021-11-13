@@ -1,0 +1,716 @@
+{
+  "homepages": [],
+  "source_base_path": "/github/workspace/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Action-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Action-1.html",
+          "hash": "cCwcZgeycFgqcTxIrcgdNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Action-10.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Action-10.html",
+          "hash": "6Wuhkl0p4R0HolhV71DFjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Action-11.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Action-11.html",
+          "hash": "SEPwezvve801RFZgpNNVNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Action-12.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Action-12.html",
+          "hash": "A8WWj70t7NSMt9K29tK/Hw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Action-13.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Action-13.html",
+          "hash": "YAbL0xlCbtMZnZ0ARc/k2Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Action-14.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Action-14.html",
+          "hash": "IQSr/QweN5veZV2xxsWICA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Action-15.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Action-15.html",
+          "hash": "I4KjilwbUkX8b/iTewDQHw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Action-16.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Action-16.html",
+          "hash": "QVZGzuUM5hyB7OJsd9b3+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Action-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Action-2.html",
+          "hash": "S0vK/53HHNNcTgeR/p/meA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Action-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Action-3.html",
+          "hash": "joTp5+KbMzKODwerKy2XTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Action-4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Action-4.html",
+          "hash": "S7CsTSlj/GHuobKCr+i4Rg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Action-5.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Action-5.html",
+          "hash": "SF58Po48t/n8mE+wFM0r+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Action-6.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Action-6.html",
+          "hash": "jvxhO7cLJLnOWzRQrcdApA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Action-7.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Action-7.html",
+          "hash": "L/g92aReWzkzGUYZ+N/aww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Action-8.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Action-8.html",
+          "hash": "9w68s36AyJtEVKiBXEdxwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Action-9.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Action-9.html",
+          "hash": "mQVLCAu00XBGVmkwK5/Kgw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Action.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Action.html",
+          "hash": "HlEWK+XPFuROUANlzbSlaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.ActionAsync-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.ActionAsync-1.html",
+          "hash": "ps/nhyXqz9EDTis+XYksXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.ActionAsync-10.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.ActionAsync-10.html",
+          "hash": "KyrZ5rPM9MDDWN7p/Ng32g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.ActionAsync-11.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.ActionAsync-11.html",
+          "hash": "PbpP4E41RdpCS5uxzrme0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.ActionAsync-12.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.ActionAsync-12.html",
+          "hash": "zlvzKGcQ3P8gA90AtWBiRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.ActionAsync-13.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.ActionAsync-13.html",
+          "hash": "EJm7mjlh0d5b44xrIwvtRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.ActionAsync-14.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.ActionAsync-14.html",
+          "hash": "DN04mhLaz+EhlQAyxBF4JA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.ActionAsync-15.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.ActionAsync-15.html",
+          "hash": "PFHbRbqmp7cHLj+pWHxVkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.ActionAsync-16.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.ActionAsync-16.html",
+          "hash": "BbszB/BmSsBeOtpBCAB4OQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.ActionAsync-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.ActionAsync-2.html",
+          "hash": "/pielD+DGBg0COegzvJQKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.ActionAsync-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.ActionAsync-3.html",
+          "hash": "XODYK/N7VeKX3+IblYnR+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.ActionAsync-4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.ActionAsync-4.html",
+          "hash": "UJFiuOZ1w6MK3caidt778Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.ActionAsync-5.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.ActionAsync-5.html",
+          "hash": "mJgGFFHnfxAcc6YKm8Si9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.ActionAsync-6.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.ActionAsync-6.html",
+          "hash": "wieuDecvtWaVcJGRvQ53Sg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.ActionAsync-7.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.ActionAsync-7.html",
+          "hash": "D6nqbrpJme2yyeWeNnH+aQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.ActionAsync-8.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.ActionAsync-8.html",
+          "hash": "f/4AjuUyrhmKKCttZzf8LQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.ActionAsync-9.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.ActionAsync-9.html",
+          "hash": "LnR+dyaXk0+/cnt9/QgUMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.ActionAsync.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.ActionAsync.html",
+          "hash": "82H8zvJoVLAPJaWC/qs/+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Rop.ResultExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Rop.ResultExtensions.html",
+          "hash": "npNOnZnHDyp2zbOiWwr4GA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Rop.ResultExtensionsAsync.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html",
+          "hash": "vjjwKzdOpKorgEmA+WiCrg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.Rop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.Rop.html",
+          "hash": "TGIsQtqsv5ks8g3GGgnerw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Func.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Func.html",
+          "hash": "engIPNE8VhhNVjyWQFlREA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Rop.Result-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Rop.Result-2.html",
+          "hash": "KIJsmHShk8S6vqwk0hnpCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Rop.ResultExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Rop.ResultExtensions.html",
+          "hash": "1EizbPoVN/ycvyHEUrfPsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Rop.ResultExtensionsAsync.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Rop.ResultExtensionsAsync.html",
+          "hash": "csw791FHuG8GZwO2clRcfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Rop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Rop.html",
+          "hash": "z5bQmHzl6gxeuDf4eQzTyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.TaskUtilities.TaskExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.TaskUtilities.TaskExtension.html",
+          "hash": "6sFm7PX0+DA3nKaHlhZAhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.TaskUtilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.TaskUtilities.html",
+          "hash": "U5h562p3hHqdexxOYV0eGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.Unit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.Unit.html",
+          "hash": "Wgh/DNFQ2osoydK1xVGhew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maya.Ext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maya.Ext.html",
+          "hash": "sMsWpt6TPP5BfS3LxjFIzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "5j/iF1EzbJREUMEL3yNDZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "984pNrwX+gYL37x4lO8WHQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/actionasync.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/actionasync.html",
+          "hash": "nInG18Nz+OqY1VAeSbHyXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "HwWz9oJ5AilEnyuxdCebTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/rop.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/rop.html",
+          "hash": "1dOU89MDj/EAH0hbNTAu2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/taskutils.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/taskutils.html",
+          "hash": "p1w10u6mjLXYYYJ3jLZ6Dw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "GmpuZ/8J4WZLINCrYSMyLA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "cyeVy9YJgVt34DTZWbQz1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "+rHUkRZHZRi5gd1aTU6lJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 6,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 46,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

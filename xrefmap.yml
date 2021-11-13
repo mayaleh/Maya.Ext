@@ -1,0 +1,1364 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Maya.Ext
+  name: Maya.Ext
+  href: api/Maya.Ext.html
+  commentId: N:Maya.Ext
+  fullName: Maya.Ext
+  nameWithType: Maya.Ext
+- uid: Maya.Ext.Func
+  name: Maya.Ext.Func
+  href: api/Maya.Ext.Func.html
+  commentId: N:Maya.Ext.Func
+  fullName: Maya.Ext.Func
+  nameWithType: Maya.Ext.Func
+- uid: Maya.Ext.Func.Action
+  name: Action
+  href: api/Maya.Ext.Func.Action.html
+  commentId: T:Maya.Ext.Func.Action
+  fullName: Maya.Ext.Func.Action
+  nameWithType: Action
+- uid: Maya.Ext.Func.Action`1
+  name: Action<T1>
+  href: api/Maya.Ext.Func.Action-1.html
+  commentId: T:Maya.Ext.Func.Action`1
+  name.vb: Action(Of T1)
+  fullName: Maya.Ext.Func.Action<T1>
+  fullName.vb: Maya.Ext.Func.Action(Of T1)
+  nameWithType: Action<T1>
+  nameWithType.vb: Action(Of T1)
+- uid: Maya.Ext.Func.Action`10
+  name: Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10>
+  href: api/Maya.Ext.Func.Action-10.html
+  commentId: T:Maya.Ext.Func.Action`10
+  name.vb: Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10)
+  fullName: Maya.Ext.Func.Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10>
+  fullName.vb: Maya.Ext.Func.Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10)
+  nameWithType: Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10>
+  nameWithType.vb: Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10)
+- uid: Maya.Ext.Func.Action`11
+  name: Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11>
+  href: api/Maya.Ext.Func.Action-11.html
+  commentId: T:Maya.Ext.Func.Action`11
+  name.vb: Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11)
+  fullName: Maya.Ext.Func.Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11>
+  fullName.vb: Maya.Ext.Func.Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11)
+  nameWithType: Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11>
+  nameWithType.vb: Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11)
+- uid: Maya.Ext.Func.Action`12
+  name: Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12>
+  href: api/Maya.Ext.Func.Action-12.html
+  commentId: T:Maya.Ext.Func.Action`12
+  name.vb: Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12)
+  fullName: Maya.Ext.Func.Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12>
+  fullName.vb: Maya.Ext.Func.Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12)
+  nameWithType: Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12>
+  nameWithType.vb: Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12)
+- uid: Maya.Ext.Func.Action`13
+  name: Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13>
+  href: api/Maya.Ext.Func.Action-13.html
+  commentId: T:Maya.Ext.Func.Action`13
+  name.vb: Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13)
+  fullName: Maya.Ext.Func.Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13>
+  fullName.vb: Maya.Ext.Func.Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13)
+  nameWithType: Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13>
+  nameWithType.vb: Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13)
+- uid: Maya.Ext.Func.Action`14
+  name: Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14>
+  href: api/Maya.Ext.Func.Action-14.html
+  commentId: T:Maya.Ext.Func.Action`14
+  name.vb: Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14)
+  fullName: Maya.Ext.Func.Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14>
+  fullName.vb: Maya.Ext.Func.Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14)
+  nameWithType: Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14>
+  nameWithType.vb: Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14)
+- uid: Maya.Ext.Func.Action`15
+  name: Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15>
+  href: api/Maya.Ext.Func.Action-15.html
+  commentId: T:Maya.Ext.Func.Action`15
+  name.vb: Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15)
+  fullName: Maya.Ext.Func.Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15>
+  fullName.vb: Maya.Ext.Func.Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15)
+  nameWithType: Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15>
+  nameWithType.vb: Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15)
+- uid: Maya.Ext.Func.Action`16
+  name: Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16>
+  href: api/Maya.Ext.Func.Action-16.html
+  commentId: T:Maya.Ext.Func.Action`16
+  name.vb: Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16)
+  fullName: Maya.Ext.Func.Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16>
+  fullName.vb: Maya.Ext.Func.Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16)
+  nameWithType: Action<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16>
+  nameWithType.vb: Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16)
+- uid: Maya.Ext.Func.Action`2
+  name: Action<T1, T2>
+  href: api/Maya.Ext.Func.Action-2.html
+  commentId: T:Maya.Ext.Func.Action`2
+  name.vb: Action(Of T1, T2)
+  fullName: Maya.Ext.Func.Action<T1, T2>
+  fullName.vb: Maya.Ext.Func.Action(Of T1, T2)
+  nameWithType: Action<T1, T2>
+  nameWithType.vb: Action(Of T1, T2)
+- uid: Maya.Ext.Func.Action`3
+  name: Action<T1, T2, T3>
+  href: api/Maya.Ext.Func.Action-3.html
+  commentId: T:Maya.Ext.Func.Action`3
+  name.vb: Action(Of T1, T2, T3)
+  fullName: Maya.Ext.Func.Action<T1, T2, T3>
+  fullName.vb: Maya.Ext.Func.Action(Of T1, T2, T3)
+  nameWithType: Action<T1, T2, T3>
+  nameWithType.vb: Action(Of T1, T2, T3)
+- uid: Maya.Ext.Func.Action`4
+  name: Action<T1, T2, T3, T4>
+  href: api/Maya.Ext.Func.Action-4.html
+  commentId: T:Maya.Ext.Func.Action`4
+  name.vb: Action(Of T1, T2, T3, T4)
+  fullName: Maya.Ext.Func.Action<T1, T2, T3, T4>
+  fullName.vb: Maya.Ext.Func.Action(Of T1, T2, T3, T4)
+  nameWithType: Action<T1, T2, T3, T4>
+  nameWithType.vb: Action(Of T1, T2, T3, T4)
+- uid: Maya.Ext.Func.Action`5
+  name: Action<T1, T2, T3, T4, T5>
+  href: api/Maya.Ext.Func.Action-5.html
+  commentId: T:Maya.Ext.Func.Action`5
+  name.vb: Action(Of T1, T2, T3, T4, T5)
+  fullName: Maya.Ext.Func.Action<T1, T2, T3, T4, T5>
+  fullName.vb: Maya.Ext.Func.Action(Of T1, T2, T3, T4, T5)
+  nameWithType: Action<T1, T2, T3, T4, T5>
+  nameWithType.vb: Action(Of T1, T2, T3, T4, T5)
+- uid: Maya.Ext.Func.Action`6
+  name: Action<T1, T2, T3, T4, T5, T6>
+  href: api/Maya.Ext.Func.Action-6.html
+  commentId: T:Maya.Ext.Func.Action`6
+  name.vb: Action(Of T1, T2, T3, T4, T5, T6)
+  fullName: Maya.Ext.Func.Action<T1, T2, T3, T4, T5, T6>
+  fullName.vb: Maya.Ext.Func.Action(Of T1, T2, T3, T4, T5, T6)
+  nameWithType: Action<T1, T2, T3, T4, T5, T6>
+  nameWithType.vb: Action(Of T1, T2, T3, T4, T5, T6)
+- uid: Maya.Ext.Func.Action`7
+  name: Action<T1, T2, T3, T4, T5, T6, T7>
+  href: api/Maya.Ext.Func.Action-7.html
+  commentId: T:Maya.Ext.Func.Action`7
+  name.vb: Action(Of T1, T2, T3, T4, T5, T6, T7)
+  fullName: Maya.Ext.Func.Action<T1, T2, T3, T4, T5, T6, T7>
+  fullName.vb: Maya.Ext.Func.Action(Of T1, T2, T3, T4, T5, T6, T7)
+  nameWithType: Action<T1, T2, T3, T4, T5, T6, T7>
+  nameWithType.vb: Action(Of T1, T2, T3, T4, T5, T6, T7)
+- uid: Maya.Ext.Func.Action`8
+  name: Action<T1, T2, T3, T4, T5, T6, T7, T8>
+  href: api/Maya.Ext.Func.Action-8.html
+  commentId: T:Maya.Ext.Func.Action`8
+  name.vb: Action(Of T1, T2, T3, T4, T5, T6, T7, T8)
+  fullName: Maya.Ext.Func.Action<T1, T2, T3, T4, T5, T6, T7, T8>
+  fullName.vb: Maya.Ext.Func.Action(Of T1, T2, T3, T4, T5, T6, T7, T8)
+  nameWithType: Action<T1, T2, T3, T4, T5, T6, T7, T8>
+  nameWithType.vb: Action(Of T1, T2, T3, T4, T5, T6, T7, T8)
+- uid: Maya.Ext.Func.Action`9
+  name: Action<T1, T2, T3, T4, T5, T6, T7, T8, T9>
+  href: api/Maya.Ext.Func.Action-9.html
+  commentId: T:Maya.Ext.Func.Action`9
+  name.vb: Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9)
+  fullName: Maya.Ext.Func.Action<T1, T2, T3, T4, T5, T6, T7, T8, T9>
+  fullName.vb: Maya.Ext.Func.Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9)
+  nameWithType: Action<T1, T2, T3, T4, T5, T6, T7, T8, T9>
+  nameWithType.vb: Action(Of T1, T2, T3, T4, T5, T6, T7, T8, T9)
+- uid: Maya.Ext.Func.ActionAsync
+  name: ActionAsync
+  href: api/Maya.Ext.Func.ActionAsync.html
+  commentId: T:Maya.Ext.Func.ActionAsync
+  fullName: Maya.Ext.Func.ActionAsync
+  nameWithType: ActionAsync
+- uid: Maya.Ext.Func.ActionAsync`1
+  name: ActionAsync<T1>
+  href: api/Maya.Ext.Func.ActionAsync-1.html
+  commentId: T:Maya.Ext.Func.ActionAsync`1
+  name.vb: ActionAsync(Of T1)
+  fullName: Maya.Ext.Func.ActionAsync<T1>
+  fullName.vb: Maya.Ext.Func.ActionAsync(Of T1)
+  nameWithType: ActionAsync<T1>
+  nameWithType.vb: ActionAsync(Of T1)
+- uid: Maya.Ext.Func.ActionAsync`10
+  name: ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10>
+  href: api/Maya.Ext.Func.ActionAsync-10.html
+  commentId: T:Maya.Ext.Func.ActionAsync`10
+  name.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10)
+  fullName: Maya.Ext.Func.ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10>
+  fullName.vb: Maya.Ext.Func.ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10)
+  nameWithType: ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10>
+  nameWithType.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10)
+- uid: Maya.Ext.Func.ActionAsync`11
+  name: ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11>
+  href: api/Maya.Ext.Func.ActionAsync-11.html
+  commentId: T:Maya.Ext.Func.ActionAsync`11
+  name.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11)
+  fullName: Maya.Ext.Func.ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11>
+  fullName.vb: Maya.Ext.Func.ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11)
+  nameWithType: ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11>
+  nameWithType.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11)
+- uid: Maya.Ext.Func.ActionAsync`12
+  name: ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12>
+  href: api/Maya.Ext.Func.ActionAsync-12.html
+  commentId: T:Maya.Ext.Func.ActionAsync`12
+  name.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12)
+  fullName: Maya.Ext.Func.ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12>
+  fullName.vb: Maya.Ext.Func.ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12)
+  nameWithType: ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12>
+  nameWithType.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12)
+- uid: Maya.Ext.Func.ActionAsync`13
+  name: ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13>
+  href: api/Maya.Ext.Func.ActionAsync-13.html
+  commentId: T:Maya.Ext.Func.ActionAsync`13
+  name.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13)
+  fullName: Maya.Ext.Func.ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13>
+  fullName.vb: Maya.Ext.Func.ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13)
+  nameWithType: ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13>
+  nameWithType.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13)
+- uid: Maya.Ext.Func.ActionAsync`14
+  name: ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14>
+  href: api/Maya.Ext.Func.ActionAsync-14.html
+  commentId: T:Maya.Ext.Func.ActionAsync`14
+  name.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14)
+  fullName: Maya.Ext.Func.ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14>
+  fullName.vb: Maya.Ext.Func.ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14)
+  nameWithType: ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14>
+  nameWithType.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14)
+- uid: Maya.Ext.Func.ActionAsync`15
+  name: ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15>
+  href: api/Maya.Ext.Func.ActionAsync-15.html
+  commentId: T:Maya.Ext.Func.ActionAsync`15
+  name.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15)
+  fullName: Maya.Ext.Func.ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15>
+  fullName.vb: Maya.Ext.Func.ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15)
+  nameWithType: ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15>
+  nameWithType.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15)
+- uid: Maya.Ext.Func.ActionAsync`16
+  name: ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16>
+  href: api/Maya.Ext.Func.ActionAsync-16.html
+  commentId: T:Maya.Ext.Func.ActionAsync`16
+  name.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16)
+  fullName: Maya.Ext.Func.ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16>
+  fullName.vb: Maya.Ext.Func.ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16)
+  nameWithType: ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16>
+  nameWithType.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16)
+- uid: Maya.Ext.Func.ActionAsync`2
+  name: ActionAsync<T1, T2>
+  href: api/Maya.Ext.Func.ActionAsync-2.html
+  commentId: T:Maya.Ext.Func.ActionAsync`2
+  name.vb: ActionAsync(Of T1, T2)
+  fullName: Maya.Ext.Func.ActionAsync<T1, T2>
+  fullName.vb: Maya.Ext.Func.ActionAsync(Of T1, T2)
+  nameWithType: ActionAsync<T1, T2>
+  nameWithType.vb: ActionAsync(Of T1, T2)
+- uid: Maya.Ext.Func.ActionAsync`3
+  name: ActionAsync<T1, T2, T3>
+  href: api/Maya.Ext.Func.ActionAsync-3.html
+  commentId: T:Maya.Ext.Func.ActionAsync`3
+  name.vb: ActionAsync(Of T1, T2, T3)
+  fullName: Maya.Ext.Func.ActionAsync<T1, T2, T3>
+  fullName.vb: Maya.Ext.Func.ActionAsync(Of T1, T2, T3)
+  nameWithType: ActionAsync<T1, T2, T3>
+  nameWithType.vb: ActionAsync(Of T1, T2, T3)
+- uid: Maya.Ext.Func.ActionAsync`4
+  name: ActionAsync<T1, T2, T3, T4>
+  href: api/Maya.Ext.Func.ActionAsync-4.html
+  commentId: T:Maya.Ext.Func.ActionAsync`4
+  name.vb: ActionAsync(Of T1, T2, T3, T4)
+  fullName: Maya.Ext.Func.ActionAsync<T1, T2, T3, T4>
+  fullName.vb: Maya.Ext.Func.ActionAsync(Of T1, T2, T3, T4)
+  nameWithType: ActionAsync<T1, T2, T3, T4>
+  nameWithType.vb: ActionAsync(Of T1, T2, T3, T4)
+- uid: Maya.Ext.Func.ActionAsync`5
+  name: ActionAsync<T1, T2, T3, T4, T5>
+  href: api/Maya.Ext.Func.ActionAsync-5.html
+  commentId: T:Maya.Ext.Func.ActionAsync`5
+  name.vb: ActionAsync(Of T1, T2, T3, T4, T5)
+  fullName: Maya.Ext.Func.ActionAsync<T1, T2, T3, T4, T5>
+  fullName.vb: Maya.Ext.Func.ActionAsync(Of T1, T2, T3, T4, T5)
+  nameWithType: ActionAsync<T1, T2, T3, T4, T5>
+  nameWithType.vb: ActionAsync(Of T1, T2, T3, T4, T5)
+- uid: Maya.Ext.Func.ActionAsync`6
+  name: ActionAsync<T1, T2, T3, T4, T5, T6>
+  href: api/Maya.Ext.Func.ActionAsync-6.html
+  commentId: T:Maya.Ext.Func.ActionAsync`6
+  name.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6)
+  fullName: Maya.Ext.Func.ActionAsync<T1, T2, T3, T4, T5, T6>
+  fullName.vb: Maya.Ext.Func.ActionAsync(Of T1, T2, T3, T4, T5, T6)
+  nameWithType: ActionAsync<T1, T2, T3, T4, T5, T6>
+  nameWithType.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6)
+- uid: Maya.Ext.Func.ActionAsync`7
+  name: ActionAsync<T1, T2, T3, T4, T5, T6, T7>
+  href: api/Maya.Ext.Func.ActionAsync-7.html
+  commentId: T:Maya.Ext.Func.ActionAsync`7
+  name.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7)
+  fullName: Maya.Ext.Func.ActionAsync<T1, T2, T3, T4, T5, T6, T7>
+  fullName.vb: Maya.Ext.Func.ActionAsync(Of T1, T2, T3, T4, T5, T6, T7)
+  nameWithType: ActionAsync<T1, T2, T3, T4, T5, T6, T7>
+  nameWithType.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7)
+- uid: Maya.Ext.Func.ActionAsync`8
+  name: ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8>
+  href: api/Maya.Ext.Func.ActionAsync-8.html
+  commentId: T:Maya.Ext.Func.ActionAsync`8
+  name.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8)
+  fullName: Maya.Ext.Func.ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8>
+  fullName.vb: Maya.Ext.Func.ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8)
+  nameWithType: ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8>
+  nameWithType.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8)
+- uid: Maya.Ext.Func.ActionAsync`9
+  name: ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9>
+  href: api/Maya.Ext.Func.ActionAsync-9.html
+  commentId: T:Maya.Ext.Func.ActionAsync`9
+  name.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9)
+  fullName: Maya.Ext.Func.ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9>
+  fullName.vb: Maya.Ext.Func.ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9)
+  nameWithType: ActionAsync<T1, T2, T3, T4, T5, T6, T7, T8, T9>
+  nameWithType.vb: ActionAsync(Of T1, T2, T3, T4, T5, T6, T7, T8, T9)
+- uid: Maya.Ext.Func.Rop
+  name: Maya.Ext.Func.Rop
+  href: api/Maya.Ext.Func.Rop.html
+  commentId: N:Maya.Ext.Func.Rop
+  fullName: Maya.Ext.Func.Rop
+  nameWithType: Maya.Ext.Func.Rop
+- uid: Maya.Ext.Func.Rop.ResultExtensions
+  name: ResultExtensions
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html
+  commentId: T:Maya.Ext.Func.Rop.ResultExtensions
+  fullName: Maya.Ext.Func.Rop.ResultExtensions
+  nameWithType: ResultExtensions
+- uid: Maya.Ext.Func.Rop.ResultExtensions.Aggregate*
+  name: Aggregate
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_Aggregate_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensions.Aggregate
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.Aggregate
+  nameWithType: ResultExtensions.Aggregate
+- uid: Maya.Ext.Func.Rop.ResultExtensions.Aggregate``2(IEnumerable{Maya.Ext.Rop.Result{``0,``1[]}})
+  name: Aggregate<TSuccess, TFailure>(IEnumerable<Result<TSuccess, TFailure[]>>)
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_Aggregate__2_IEnumerable_Maya_Ext_Rop_Result___0___1_____
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensions.Aggregate``2(IEnumerable{Maya.Ext.Rop.Result{``0,``1[]}})
+  name.vb: Aggregate(Of TSuccess, TFailure)(IEnumerable(Of Result(Of TSuccess, TFailure())))
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.Aggregate<TSuccess, TFailure>(IEnumerable<Maya.Ext.Rop.Result<TSuccess, TFailure[]>>)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensions.Aggregate(Of TSuccess, TFailure)(IEnumerable(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure())))
+  nameWithType: ResultExtensions.Aggregate<TSuccess, TFailure>(IEnumerable<Result<TSuccess, TFailure[]>>)
+  nameWithType.vb: ResultExtensions.Aggregate(Of TSuccess, TFailure)(IEnumerable(Of Result(Of TSuccess, TFailure())))
+- uid: Maya.Ext.Func.Rop.ResultExtensions.Bind*
+  name: Bind
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_Bind_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensions.Bind
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.Bind
+  nameWithType: ResultExtensions.Bind
+- uid: Maya.Ext.Func.Rop.ResultExtensions.Bind``3(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Maya.Ext.Rop.Result{``2,``1}})
+  name: Bind<TSuccess, TFailure, TSuccessNew>(Result<TSuccess, TFailure>, Func<TSuccess, Result<TSuccessNew, TFailure>>)
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_Bind__3_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func___0_Maya_Ext_Rop_Result___2___1___
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensions.Bind``3(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Maya.Ext.Rop.Result{``2,``1}})
+  name.vb: Bind(Of TSuccess, TFailure, TSuccessNew)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Result(Of TSuccessNew, TFailure)))
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.Bind<TSuccess, TFailure, TSuccessNew>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func<TSuccess, Maya.Ext.Rop.Result<TSuccessNew, TFailure>>)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensions.Bind(Of TSuccess, TFailure, TSuccessNew)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func(Of TSuccess, Maya.Ext.Rop.Result(Of TSuccessNew, TFailure)))
+  nameWithType: ResultExtensions.Bind<TSuccess, TFailure, TSuccessNew>(Result<TSuccess, TFailure>, Func<TSuccess, Result<TSuccessNew, TFailure>>)
+  nameWithType.vb: ResultExtensions.Bind(Of TSuccess, TFailure, TSuccessNew)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Result(Of TSuccessNew, TFailure)))
+- uid: Maya.Ext.Func.Rop.ResultExtensions.Either*
+  name: Either
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_Either_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensions.Either
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.Either
+  nameWithType: ResultExtensions.Either
+- uid: Maya.Ext.Func.Rop.ResultExtensions.Either``4(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Rop.Result{``2,``3}},Maya.Ext.Func{Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Rop.Result{``2,``3}})
+  name: Either<TSuccess, TFailure, TSuccess2, TFailure2>(Result<TSuccess, TFailure>, Func<Result<TSuccess, TFailure>, Result<TSuccess2, TFailure2>>, Func<Result<TSuccess, TFailure>, Result<TSuccess2, TFailure2>>)
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_Either__4_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func_Maya_Ext_Rop_Result___0___1__Maya_Ext_Rop_Result___2___3___Maya_Ext_Func_Maya_Ext_Rop_Result___0___1__Maya_Ext_Rop_Result___2___3___
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensions.Either``4(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Rop.Result{``2,``3}},Maya.Ext.Func{Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Rop.Result{``2,``3}})
+  name.vb: Either(Of TSuccess, TFailure, TSuccess2, TFailure2)(Result(Of TSuccess, TFailure), Func(Of Result(Of TSuccess, TFailure), Result(Of TSuccess2, TFailure2)), Func(Of Result(Of TSuccess, TFailure), Result(Of TSuccess2, TFailure2)))
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.Either<TSuccess, TFailure, TSuccess2, TFailure2>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func<Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Rop.Result<TSuccess2, TFailure2>>, Maya.Ext.Func<Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Rop.Result<TSuccess2, TFailure2>>)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensions.Either(Of TSuccess, TFailure, TSuccess2, TFailure2)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Rop.Result(Of TSuccess2, TFailure2)), Maya.Ext.Func(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Rop.Result(Of TSuccess2, TFailure2)))
+  nameWithType: ResultExtensions.Either<TSuccess, TFailure, TSuccess2, TFailure2>(Result<TSuccess, TFailure>, Func<Result<TSuccess, TFailure>, Result<TSuccess2, TFailure2>>, Func<Result<TSuccess, TFailure>, Result<TSuccess2, TFailure2>>)
+  nameWithType.vb: ResultExtensions.Either(Of TSuccess, TFailure, TSuccess2, TFailure2)(Result(Of TSuccess, TFailure), Func(Of Result(Of TSuccess, TFailure), Result(Of TSuccess2, TFailure2)), Func(Of Result(Of TSuccess, TFailure), Result(Of TSuccess2, TFailure2)))
+- uid: Maya.Ext.Func.Rop.ResultExtensions.Handle*
+  name: Handle
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_Handle_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensions.Handle
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.Handle
+  nameWithType: ResultExtensions.Handle
+- uid: Maya.Ext.Func.Rop.ResultExtensions.Handle``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func.Action{``0},Maya.Ext.Func.Action{``1})
+  name: Handle<TSuccess, TFailure>(Result<TSuccess, TFailure>, Action<TSuccess>, Action<TFailure>)
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_Handle__2_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func_Action___0__Maya_Ext_Func_Action___1__
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensions.Handle``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func.Action{``0},Maya.Ext.Func.Action{``1})
+  name.vb: Handle(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Action(Of TSuccess), Action(Of TFailure))
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.Handle<TSuccess, TFailure>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func.Action<TSuccess>, Maya.Ext.Func.Action<TFailure>)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensions.Handle(Of TSuccess, TFailure)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func.Action(Of TSuccess), Maya.Ext.Func.Action(Of TFailure))
+  nameWithType: ResultExtensions.Handle<TSuccess, TFailure>(Result<TSuccess, TFailure>, Action<TSuccess>, Action<TFailure>)
+  nameWithType.vb: ResultExtensions.Handle(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Action(Of TSuccess), Action(Of TFailure))
+- uid: Maya.Ext.Func.Rop.ResultExtensions.Map*
+  name: Map
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_Map_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensions.Map
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.Map
+  nameWithType: ResultExtensions.Map
+- uid: Maya.Ext.Func.Rop.ResultExtensions.Map``3(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,``2})
+  name: Map<TSuccess, TFailure, TSuccessNew>(Result<TSuccess, TFailure>, Func<TSuccess, TSuccessNew>)
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_Map__3_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func___0___2__
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensions.Map``3(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,``2})
+  name.vb: Map(Of TSuccess, TFailure, TSuccessNew)(Result(Of TSuccess, TFailure), Func(Of TSuccess, TSuccessNew))
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.Map<TSuccess, TFailure, TSuccessNew>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func<TSuccess, TSuccessNew>)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensions.Map(Of TSuccess, TFailure, TSuccessNew)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func(Of TSuccess, TSuccessNew))
+  nameWithType: ResultExtensions.Map<TSuccess, TFailure, TSuccessNew>(Result<TSuccess, TFailure>, Func<TSuccess, TSuccessNew>)
+  nameWithType.vb: ResultExtensions.Map(Of TSuccess, TFailure, TSuccessNew)(Result(Of TSuccess, TFailure), Func(Of TSuccess, TSuccessNew))
+- uid: Maya.Ext.Func.Rop.ResultExtensions.MatchFailureAction*
+  name: MatchFailureAction
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_MatchFailureAction_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensions.MatchFailureAction
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.MatchFailureAction
+  nameWithType: ResultExtensions.MatchFailureAction
+- uid: Maya.Ext.Func.Rop.ResultExtensions.MatchFailureAction``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func.Action{``1})
+  name: MatchFailureAction<TSuccess, TFailure>(Result<TSuccess, TFailure>, Action<TFailure>)
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_MatchFailureAction__2_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func_Action___1__
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensions.MatchFailureAction``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func.Action{``1})
+  name.vb: MatchFailureAction(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Action(Of TFailure))
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.MatchFailureAction<TSuccess, TFailure>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func.Action<TFailure>)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensions.MatchFailureAction(Of TSuccess, TFailure)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func.Action(Of TFailure))
+  nameWithType: ResultExtensions.MatchFailureAction<TSuccess, TFailure>(Result<TSuccess, TFailure>, Action<TFailure>)
+  nameWithType.vb: ResultExtensions.MatchFailureAction(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Action(Of TFailure))
+- uid: Maya.Ext.Func.Rop.ResultExtensions.MatchSuccessAction*
+  name: MatchSuccessAction
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_MatchSuccessAction_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensions.MatchSuccessAction
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.MatchSuccessAction
+  nameWithType: ResultExtensions.MatchSuccessAction
+- uid: Maya.Ext.Func.Rop.ResultExtensions.MatchSuccessAction``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func.Action{``0})
+  name: MatchSuccessAction<TSuccess, TFailure>(Result<TSuccess, TFailure>, Action<TSuccess>)
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_MatchSuccessAction__2_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func_Action___0__
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensions.MatchSuccessAction``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func.Action{``0})
+  name.vb: MatchSuccessAction(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Action(Of TSuccess))
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.MatchSuccessAction<TSuccess, TFailure>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func.Action<TSuccess>)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensions.MatchSuccessAction(Of TSuccess, TFailure)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func.Action(Of TSuccess))
+  nameWithType: ResultExtensions.MatchSuccessAction<TSuccess, TFailure>(Result<TSuccess, TFailure>, Action<TSuccess>)
+  nameWithType.vb: ResultExtensions.MatchSuccessAction(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Action(Of TSuccess))
+- uid: Maya.Ext.Func.Rop.ResultExtensions.Merge*
+  name: Merge
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_Merge_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensions.Merge
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.Merge
+  nameWithType: ResultExtensions.Merge
+- uid: Maya.Ext.Func.Rop.ResultExtensions.Merge``2(Maya.Ext.Rop.Result{``0[],``1[]},Maya.Ext.Rop.Result{``0,``1[]})
+  name: Merge<TSuccess, TFailure>(Result<TSuccess[], TFailure[]>, Result<TSuccess, TFailure[]>)
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_Merge__2_Maya_Ext_Rop_Result___0_____1____Maya_Ext_Rop_Result___0___1____
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensions.Merge``2(Maya.Ext.Rop.Result{``0[],``1[]},Maya.Ext.Rop.Result{``0,``1[]})
+  name.vb: Merge(Of TSuccess, TFailure)(Result(Of TSuccess(), TFailure()), Result(Of TSuccess, TFailure()))
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.Merge<TSuccess, TFailure>(Maya.Ext.Rop.Result<TSuccess[], TFailure[]>, Maya.Ext.Rop.Result<TSuccess, TFailure[]>)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensions.Merge(Of TSuccess, TFailure)(Maya.Ext.Rop.Result(Of TSuccess(), TFailure()), Maya.Ext.Rop.Result(Of TSuccess, TFailure()))
+  nameWithType: ResultExtensions.Merge<TSuccess, TFailure>(Result<TSuccess[], TFailure[]>, Result<TSuccess, TFailure[]>)
+  nameWithType.vb: ResultExtensions.Merge(Of TSuccess, TFailure)(Result(Of TSuccess(), TFailure()), Result(Of TSuccess, TFailure()))
+- uid: Maya.Ext.Func.Rop.ResultExtensions.Tee*
+  name: Tee
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_Tee_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensions.Tee
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.Tee
+  nameWithType: ResultExtensions.Tee
+- uid: Maya.Ext.Func.Rop.ResultExtensions.Tee``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func.Action{``0})
+  name: Tee<TSuccess, TFailure>(Result<TSuccess, TFailure>, Action<TSuccess>)
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_Tee__2_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func_Action___0__
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensions.Tee``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func.Action{``0})
+  name.vb: Tee(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Action(Of TSuccess))
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.Tee<TSuccess, TFailure>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func.Action<TSuccess>)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensions.Tee(Of TSuccess, TFailure)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func.Action(Of TSuccess))
+  nameWithType: ResultExtensions.Tee<TSuccess, TFailure>(Result<TSuccess, TFailure>, Action<TSuccess>)
+  nameWithType.vb: ResultExtensions.Tee(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Action(Of TSuccess))
+- uid: Maya.Ext.Func.Rop.ResultExtensions.ToFailure*
+  name: ToFailure
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_ToFailure_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensions.ToFailure
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.ToFailure
+  nameWithType: ResultExtensions.ToFailure
+- uid: Maya.Ext.Func.Rop.ResultExtensions.ToFailure``2(Maya.Ext.Rop.Result{``0,``1[]})
+  name: ToFailure<TSuccess, TFailure>(Result<TSuccess, TFailure[]>)
+  href: api/Maya.Ext.Func.Rop.ResultExtensions.html#Maya_Ext_Func_Rop_ResultExtensions_ToFailure__2_Maya_Ext_Rop_Result___0___1____
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensions.ToFailure``2(Maya.Ext.Rop.Result{``0,``1[]})
+  name.vb: ToFailure(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure()))
+  fullName: Maya.Ext.Func.Rop.ResultExtensions.ToFailure<TSuccess, TFailure>(Maya.Ext.Rop.Result<TSuccess, TFailure[]>)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensions.ToFailure(Of TSuccess, TFailure)(Maya.Ext.Rop.Result(Of TSuccess, TFailure()))
+  nameWithType: ResultExtensions.ToFailure<TSuccess, TFailure>(Result<TSuccess, TFailure[]>)
+  nameWithType.vb: ResultExtensions.ToFailure(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure()))
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync
+  name: ResultExtensionsAsync
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html
+  commentId: T:Maya.Ext.Func.Rop.ResultExtensionsAsync
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync
+  nameWithType: ResultExtensionsAsync
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.BindAsync*
+  name: BindAsync
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_BindAsync_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensionsAsync.BindAsync
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.BindAsync
+  nameWithType: ResultExtensionsAsync.BindAsync
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.BindAsync``3(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task{Maya.Ext.Rop.Result{``2,``1}}},System.Boolean)
+  name: BindAsync<TSuccess, TFailure, TSuccessNew>(Result<TSuccess, TFailure>, Func<TSuccess, Task<Result<TSuccessNew, TFailure>>>, Boolean)
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_BindAsync__3_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func___0_Task_Maya_Ext_Rop_Result___2___1____System_Boolean_
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensionsAsync.BindAsync``3(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task{Maya.Ext.Rop.Result{``2,``1}}},System.Boolean)
+  name.vb: BindAsync(Of TSuccess, TFailure, TSuccessNew)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task(Of Result(Of TSuccessNew, TFailure))), Boolean)
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.BindAsync<TSuccess, TFailure, TSuccessNew>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func<TSuccess, Task<Maya.Ext.Rop.Result<TSuccessNew, TFailure>>>, System.Boolean)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensionsAsync.BindAsync(Of TSuccess, TFailure, TSuccessNew)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func(Of TSuccess, Task(Of Maya.Ext.Rop.Result(Of TSuccessNew, TFailure))), System.Boolean)
+  nameWithType: ResultExtensionsAsync.BindAsync<TSuccess, TFailure, TSuccessNew>(Result<TSuccess, TFailure>, Func<TSuccess, Task<Result<TSuccessNew, TFailure>>>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.BindAsync(Of TSuccess, TFailure, TSuccessNew)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task(Of Result(Of TSuccessNew, TFailure))), Boolean)
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.BindAsync``3(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task{Maya.Ext.Rop.Result{``2,``1}}},System.Boolean)
+  name: BindAsync<TSuccess, TFailure, TSuccessNew>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task<Result<TSuccessNew, TFailure>>>, Boolean)
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_BindAsync__3_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func___0_Task_Maya_Ext_Rop_Result___2___1____System_Boolean_
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensionsAsync.BindAsync``3(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task{Maya.Ext.Rop.Result{``2,``1}}},System.Boolean)
+  name.vb: BindAsync(Of TSuccess, TFailure, TSuccessNew)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task(Of Result(Of TSuccessNew, TFailure))), Boolean)
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.BindAsync<TSuccess, TFailure, TSuccessNew>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func<TSuccess, Task<Maya.Ext.Rop.Result<TSuccessNew, TFailure>>>, System.Boolean)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensionsAsync.BindAsync(Of TSuccess, TFailure, TSuccessNew)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func(Of TSuccess, Task(Of Maya.Ext.Rop.Result(Of TSuccessNew, TFailure))), System.Boolean)
+  nameWithType: ResultExtensionsAsync.BindAsync<TSuccess, TFailure, TSuccessNew>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task<Result<TSuccessNew, TFailure>>>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.BindAsync(Of TSuccess, TFailure, TSuccessNew)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task(Of Result(Of TSuccessNew, TFailure))), Boolean)
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.EitherAsync*
+  name: EitherAsync
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_EitherAsync_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensionsAsync.EitherAsync
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.EitherAsync
+  nameWithType: ResultExtensionsAsync.EitherAsync
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.EitherAsync``4(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task{Maya.Ext.Rop.Result{``2,``3}}},Maya.Ext.Func{``1,Task{Maya.Ext.Rop.Result{``2,``3}}},System.Boolean)
+  name: EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(Result<TSuccess, TFailure>, Func<TSuccess, Task<Result<TSuccess2, TFailure2>>>, Func<TFailure, Task<Result<TSuccess2, TFailure2>>>, Boolean)
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_EitherAsync__4_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func___0_Task_Maya_Ext_Rop_Result___2___3____Maya_Ext_Func___1_Task_Maya_Ext_Rop_Result___2___3____System_Boolean_
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensionsAsync.EitherAsync``4(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task{Maya.Ext.Rop.Result{``2,``3}}},Maya.Ext.Func{``1,Task{Maya.Ext.Rop.Result{``2,``3}}},System.Boolean)
+  name.vb: EitherAsync(Of TSuccess, TFailure, TSuccess2, TFailure2)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task(Of Result(Of TSuccess2, TFailure2))), Func(Of TFailure, Task(Of Result(Of TSuccess2, TFailure2))), Boolean)
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func<TSuccess, Task<Maya.Ext.Rop.Result<TSuccess2, TFailure2>>>, Maya.Ext.Func<TFailure, Task<Maya.Ext.Rop.Result<TSuccess2, TFailure2>>>, System.Boolean)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensionsAsync.EitherAsync(Of TSuccess, TFailure, TSuccess2, TFailure2)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func(Of TSuccess, Task(Of Maya.Ext.Rop.Result(Of TSuccess2, TFailure2))), Maya.Ext.Func(Of TFailure, Task(Of Maya.Ext.Rop.Result(Of TSuccess2, TFailure2))), System.Boolean)
+  nameWithType: ResultExtensionsAsync.EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(Result<TSuccess, TFailure>, Func<TSuccess, Task<Result<TSuccess2, TFailure2>>>, Func<TFailure, Task<Result<TSuccess2, TFailure2>>>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.EitherAsync(Of TSuccess, TFailure, TSuccess2, TFailure2)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task(Of Result(Of TSuccess2, TFailure2))), Func(Of TFailure, Task(Of Result(Of TSuccess2, TFailure2))), Boolean)
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.EitherAsync``4(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task{Maya.Ext.Rop.Result{``2,``3}}},Maya.Ext.Func{``1,Task{Maya.Ext.Rop.Result{``2,``3}}},System.Boolean)
+  name: EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task<Result<TSuccess2, TFailure2>>>, Func<TFailure, Task<Result<TSuccess2, TFailure2>>>, Boolean)
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_EitherAsync__4_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func___0_Task_Maya_Ext_Rop_Result___2___3____Maya_Ext_Func___1_Task_Maya_Ext_Rop_Result___2___3____System_Boolean_
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensionsAsync.EitherAsync``4(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task{Maya.Ext.Rop.Result{``2,``3}}},Maya.Ext.Func{``1,Task{Maya.Ext.Rop.Result{``2,``3}}},System.Boolean)
+  name.vb: EitherAsync(Of TSuccess, TFailure, TSuccess2, TFailure2)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task(Of Result(Of TSuccess2, TFailure2))), Func(Of TFailure, Task(Of Result(Of TSuccess2, TFailure2))), Boolean)
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func<TSuccess, Task<Maya.Ext.Rop.Result<TSuccess2, TFailure2>>>, Maya.Ext.Func<TFailure, Task<Maya.Ext.Rop.Result<TSuccess2, TFailure2>>>, System.Boolean)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensionsAsync.EitherAsync(Of TSuccess, TFailure, TSuccess2, TFailure2)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func(Of TSuccess, Task(Of Maya.Ext.Rop.Result(Of TSuccess2, TFailure2))), Maya.Ext.Func(Of TFailure, Task(Of Maya.Ext.Rop.Result(Of TSuccess2, TFailure2))), System.Boolean)
+  nameWithType: ResultExtensionsAsync.EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task<Result<TSuccess2, TFailure2>>>, Func<TFailure, Task<Result<TSuccess2, TFailure2>>>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.EitherAsync(Of TSuccess, TFailure, TSuccess2, TFailure2)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task(Of Result(Of TSuccess2, TFailure2))), Func(Of TFailure, Task(Of Result(Of TSuccess2, TFailure2))), Boolean)
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.EitherAsync``4(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Rop.Result{``2,``3}},Maya.Ext.Func{Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Rop.Result{``2,``3}})
+  name: EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(Task<Result<TSuccess, TFailure>>, Func<Result<TSuccess, TFailure>, Result<TSuccess2, TFailure2>>, Func<Result<TSuccess, TFailure>, Result<TSuccess2, TFailure2>>)
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_EitherAsync__4_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func_Maya_Ext_Rop_Result___0___1__Maya_Ext_Rop_Result___2___3___Maya_Ext_Func_Maya_Ext_Rop_Result___0___1__Maya_Ext_Rop_Result___2___3___
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensionsAsync.EitherAsync``4(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Rop.Result{``2,``3}},Maya.Ext.Func{Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Rop.Result{``2,``3}})
+  name.vb: EitherAsync(Of TSuccess, TFailure, TSuccess2, TFailure2)(Task(Of Result(Of TSuccess, TFailure)), Func(Of Result(Of TSuccess, TFailure), Result(Of TSuccess2, TFailure2)), Func(Of Result(Of TSuccess, TFailure), Result(Of TSuccess2, TFailure2)))
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func<Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Rop.Result<TSuccess2, TFailure2>>, Maya.Ext.Func<Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Rop.Result<TSuccess2, TFailure2>>)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensionsAsync.EitherAsync(Of TSuccess, TFailure, TSuccess2, TFailure2)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Rop.Result(Of TSuccess2, TFailure2)), Maya.Ext.Func(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Rop.Result(Of TSuccess2, TFailure2)))
+  nameWithType: ResultExtensionsAsync.EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(Task<Result<TSuccess, TFailure>>, Func<Result<TSuccess, TFailure>, Result<TSuccess2, TFailure2>>, Func<Result<TSuccess, TFailure>, Result<TSuccess2, TFailure2>>)
+  nameWithType.vb: ResultExtensionsAsync.EitherAsync(Of TSuccess, TFailure, TSuccess2, TFailure2)(Task(Of Result(Of TSuccess, TFailure)), Func(Of Result(Of TSuccess, TFailure), Result(Of TSuccess2, TFailure2)), Func(Of Result(Of TSuccess, TFailure), Result(Of TSuccess2, TFailure2)))
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.HandleAsync*
+  name: HandleAsync
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_HandleAsync_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensionsAsync.HandleAsync
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.HandleAsync
+  nameWithType: ResultExtensionsAsync.HandleAsync
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.HandleAsync``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task{Maya.Ext.Unit}},Maya.Ext.Func.Action{``1},System.Boolean)
+  name: HandleAsync<TSuccess, TFailure>(Result<TSuccess, TFailure>, Func<TSuccess, Task<Unit>>, Action<TFailure>, Boolean)
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_HandleAsync__2_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func___0_Task_Maya_Ext_Unit___Maya_Ext_Func_Action___1__System_Boolean_
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensionsAsync.HandleAsync``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task{Maya.Ext.Unit}},Maya.Ext.Func.Action{``1},System.Boolean)
+  name.vb: HandleAsync(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task(Of Unit)), Action(Of TFailure), Boolean)
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.HandleAsync<TSuccess, TFailure>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func<TSuccess, Task<Maya.Ext.Unit>>, Maya.Ext.Func.Action<TFailure>, System.Boolean)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensionsAsync.HandleAsync(Of TSuccess, TFailure)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func(Of TSuccess, Task(Of Maya.Ext.Unit)), Maya.Ext.Func.Action(Of TFailure), System.Boolean)
+  nameWithType: ResultExtensionsAsync.HandleAsync<TSuccess, TFailure>(Result<TSuccess, TFailure>, Func<TSuccess, Task<Unit>>, Action<TFailure>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.HandleAsync(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task(Of Unit)), Action(Of TFailure), Boolean)
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.HandleAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task{Maya.Ext.Unit}},Maya.Ext.Func.Action{``1},System.Boolean)
+  name: HandleAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task<Unit>>, Action<TFailure>, Boolean)
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_HandleAsync__2_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func___0_Task_Maya_Ext_Unit___Maya_Ext_Func_Action___1__System_Boolean_
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensionsAsync.HandleAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task{Maya.Ext.Unit}},Maya.Ext.Func.Action{``1},System.Boolean)
+  name.vb: HandleAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task(Of Unit)), Action(Of TFailure), Boolean)
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.HandleAsync<TSuccess, TFailure>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func<TSuccess, Task<Maya.Ext.Unit>>, Maya.Ext.Func.Action<TFailure>, System.Boolean)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensionsAsync.HandleAsync(Of TSuccess, TFailure)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func(Of TSuccess, Task(Of Maya.Ext.Unit)), Maya.Ext.Func.Action(Of TFailure), System.Boolean)
+  nameWithType: ResultExtensionsAsync.HandleAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task<Unit>>, Action<TFailure>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.HandleAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task(Of Unit)), Action(Of TFailure), Boolean)
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.MapAsync*
+  name: MapAsync
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_MapAsync_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensionsAsync.MapAsync
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.MapAsync
+  nameWithType: ResultExtensionsAsync.MapAsync
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.MapAsync``3(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task{``2}},System.Boolean)
+  name: MapAsync<TSuccess, TFailure, TSuccessNew>(Result<TSuccess, TFailure>, Func<TSuccess, Task<TSuccessNew>>, Boolean)
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_MapAsync__3_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func___0_Task___2___System_Boolean_
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensionsAsync.MapAsync``3(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task{``2}},System.Boolean)
+  name.vb: MapAsync(Of TSuccess, TFailure, TSuccessNew)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task(Of TSuccessNew)), Boolean)
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.MapAsync<TSuccess, TFailure, TSuccessNew>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func<TSuccess, Task<TSuccessNew>>, System.Boolean)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensionsAsync.MapAsync(Of TSuccess, TFailure, TSuccessNew)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func(Of TSuccess, Task(Of TSuccessNew)), System.Boolean)
+  nameWithType: ResultExtensionsAsync.MapAsync<TSuccess, TFailure, TSuccessNew>(Result<TSuccess, TFailure>, Func<TSuccess, Task<TSuccessNew>>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.MapAsync(Of TSuccess, TFailure, TSuccessNew)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task(Of TSuccessNew)), Boolean)
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.MapAsync``3(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task{``2}},System.Boolean)
+  name: MapAsync<TSuccess, TFailure, TSuccessNew>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task<TSuccessNew>>, Boolean)
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_MapAsync__3_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func___0_Task___2___System_Boolean_
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensionsAsync.MapAsync``3(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task{``2}},System.Boolean)
+  name.vb: MapAsync(Of TSuccess, TFailure, TSuccessNew)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task(Of TSuccessNew)), Boolean)
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.MapAsync<TSuccess, TFailure, TSuccessNew>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func<TSuccess, Task<TSuccessNew>>, System.Boolean)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensionsAsync.MapAsync(Of TSuccess, TFailure, TSuccessNew)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func(Of TSuccess, Task(Of TSuccessNew)), System.Boolean)
+  nameWithType: ResultExtensionsAsync.MapAsync<TSuccess, TFailure, TSuccessNew>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task<TSuccessNew>>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.MapAsync(Of TSuccess, TFailure, TSuccessNew)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task(Of TSuccessNew)), Boolean)
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchFailureAsync*
+  name: MatchFailureAsync
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_MatchFailureAsync_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchFailureAsync
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchFailureAsync
+  nameWithType: ResultExtensionsAsync.MatchFailureAsync
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchFailureAsync``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``1,Task{Maya.Ext.Unit}},System.Boolean)
+  name: MatchFailureAsync<TSuccess, TFailure>(Result<TSuccess, TFailure>, Func<TFailure, Task<Unit>>, Boolean)
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_MatchFailureAsync__2_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func___1_Task_Maya_Ext_Unit___System_Boolean_
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchFailureAsync``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``1,Task{Maya.Ext.Unit}},System.Boolean)
+  name.vb: MatchFailureAsync(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Func(Of TFailure, Task(Of Unit)), Boolean)
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchFailureAsync<TSuccess, TFailure>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func<TFailure, Task<Maya.Ext.Unit>>, System.Boolean)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchFailureAsync(Of TSuccess, TFailure)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func(Of TFailure, Task(Of Maya.Ext.Unit)), System.Boolean)
+  nameWithType: ResultExtensionsAsync.MatchFailureAsync<TSuccess, TFailure>(Result<TSuccess, TFailure>, Func<TFailure, Task<Unit>>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.MatchFailureAsync(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Func(Of TFailure, Task(Of Unit)), Boolean)
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchFailureAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``1,Task{Maya.Ext.Unit}},System.Boolean)
+  name: MatchFailureAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TFailure, Task<Unit>>, Boolean)
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_MatchFailureAsync__2_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func___1_Task_Maya_Ext_Unit___System_Boolean_
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchFailureAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``1,Task{Maya.Ext.Unit}},System.Boolean)
+  name.vb: MatchFailureAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TFailure, Task(Of Unit)), Boolean)
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchFailureAsync<TSuccess, TFailure>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func<TFailure, Task<Maya.Ext.Unit>>, System.Boolean)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchFailureAsync(Of TSuccess, TFailure)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func(Of TFailure, Task(Of Maya.Ext.Unit)), System.Boolean)
+  nameWithType: ResultExtensionsAsync.MatchFailureAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TFailure, Task<Unit>>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.MatchFailureAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TFailure, Task(Of Unit)), Boolean)
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchSuccessAsync*
+  name: MatchSuccessAsync
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_MatchSuccessAsync_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchSuccessAsync
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchSuccessAsync
+  nameWithType: ResultExtensionsAsync.MatchSuccessAsync
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchSuccessAsync``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task{Maya.Ext.Unit}},System.Boolean)
+  name: MatchSuccessAsync<TSuccess, TFailure>(Result<TSuccess, TFailure>, Func<TSuccess, Task<Unit>>, Boolean)
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_MatchSuccessAsync__2_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func___0_Task_Maya_Ext_Unit___System_Boolean_
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchSuccessAsync``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task{Maya.Ext.Unit}},System.Boolean)
+  name.vb: MatchSuccessAsync(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task(Of Unit)), Boolean)
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchSuccessAsync<TSuccess, TFailure>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func<TSuccess, Task<Maya.Ext.Unit>>, System.Boolean)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchSuccessAsync(Of TSuccess, TFailure)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func(Of TSuccess, Task(Of Maya.Ext.Unit)), System.Boolean)
+  nameWithType: ResultExtensionsAsync.MatchSuccessAsync<TSuccess, TFailure>(Result<TSuccess, TFailure>, Func<TSuccess, Task<Unit>>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.MatchSuccessAsync(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task(Of Unit)), Boolean)
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchSuccessAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task{Maya.Ext.Unit}},System.Boolean)
+  name: MatchSuccessAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task<Unit>>, Boolean)
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_MatchSuccessAsync__2_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func___0_Task_Maya_Ext_Unit___System_Boolean_
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchSuccessAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task{Maya.Ext.Unit}},System.Boolean)
+  name.vb: MatchSuccessAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task(Of Unit)), Boolean)
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchSuccessAsync<TSuccess, TFailure>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func<TSuccess, Task<Maya.Ext.Unit>>, System.Boolean)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensionsAsync.MatchSuccessAsync(Of TSuccess, TFailure)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func(Of TSuccess, Task(Of Maya.Ext.Unit)), System.Boolean)
+  nameWithType: ResultExtensionsAsync.MatchSuccessAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task<Unit>>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.MatchSuccessAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task(Of Unit)), Boolean)
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenFailureAsync*
+  name: RunWhenFailureAsync
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_RunWhenFailureAsync_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenFailureAsync
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenFailureAsync
+  nameWithType: ResultExtensionsAsync.RunWhenFailureAsync
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenFailureAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func.Action{``1},System.Boolean)
+  name: RunWhenFailureAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Action<TFailure>, Boolean)
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_RunWhenFailureAsync__2_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func_Action___1__System_Boolean_
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenFailureAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func.Action{``1},System.Boolean)
+  name.vb: RunWhenFailureAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Action(Of TFailure), Boolean)
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenFailureAsync<TSuccess, TFailure>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func.Action<TFailure>, System.Boolean)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenFailureAsync(Of TSuccess, TFailure)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func.Action(Of TFailure), System.Boolean)
+  nameWithType: ResultExtensionsAsync.RunWhenFailureAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Action<TFailure>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.RunWhenFailureAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Action(Of TFailure), Boolean)
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenFailureAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``1,Task{Maya.Ext.Unit}},System.Boolean)
+  name: RunWhenFailureAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TFailure, Task<Unit>>, Boolean)
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_RunWhenFailureAsync__2_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func___1_Task_Maya_Ext_Unit___System_Boolean_
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenFailureAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``1,Task{Maya.Ext.Unit}},System.Boolean)
+  name.vb: RunWhenFailureAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TFailure, Task(Of Unit)), Boolean)
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenFailureAsync<TSuccess, TFailure>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func<TFailure, Task<Maya.Ext.Unit>>, System.Boolean)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenFailureAsync(Of TSuccess, TFailure)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func(Of TFailure, Task(Of Maya.Ext.Unit)), System.Boolean)
+  nameWithType: ResultExtensionsAsync.RunWhenFailureAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TFailure, Task<Unit>>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.RunWhenFailureAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TFailure, Task(Of Unit)), Boolean)
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenSuccessAsync*
+  name: RunWhenSuccessAsync
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_RunWhenSuccessAsync_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenSuccessAsync
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenSuccessAsync
+  nameWithType: ResultExtensionsAsync.RunWhenSuccessAsync
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenSuccessAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func.Action{``0},System.Boolean)
+  name: RunWhenSuccessAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Action<TSuccess>, Boolean)
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_RunWhenSuccessAsync__2_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func_Action___0__System_Boolean_
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenSuccessAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func.Action{``0},System.Boolean)
+  name.vb: RunWhenSuccessAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Action(Of TSuccess), Boolean)
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenSuccessAsync<TSuccess, TFailure>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func.Action<TSuccess>, System.Boolean)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenSuccessAsync(Of TSuccess, TFailure)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func.Action(Of TSuccess), System.Boolean)
+  nameWithType: ResultExtensionsAsync.RunWhenSuccessAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Action<TSuccess>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.RunWhenSuccessAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Action(Of TSuccess), Boolean)
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenSuccessAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task{Maya.Ext.Unit}},System.Boolean)
+  name: RunWhenSuccessAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task<Unit>>, Boolean)
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_RunWhenSuccessAsync__2_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func___0_Task_Maya_Ext_Unit___System_Boolean_
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenSuccessAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task{Maya.Ext.Unit}},System.Boolean)
+  name.vb: RunWhenSuccessAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task(Of Unit)), Boolean)
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenSuccessAsync<TSuccess, TFailure>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func<TSuccess, Task<Maya.Ext.Unit>>, System.Boolean)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensionsAsync.RunWhenSuccessAsync(Of TSuccess, TFailure)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func(Of TSuccess, Task(Of Maya.Ext.Unit)), System.Boolean)
+  nameWithType: ResultExtensionsAsync.RunWhenSuccessAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task<Unit>>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.RunWhenSuccessAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task(Of Unit)), Boolean)
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.ValueOrAsync*
+  name: ValueOrAsync
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_ValueOrAsync_
+  commentId: Overload:Maya.Ext.Func.Rop.ResultExtensionsAsync.ValueOrAsync
+  isSpec: "True"
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.ValueOrAsync
+  nameWithType: ResultExtensionsAsync.ValueOrAsync
+- uid: Maya.Ext.Func.Rop.ResultExtensionsAsync.ValueOrAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},``0,System.Boolean)
+  name: ValueOrAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, TSuccess, Boolean)
+  href: api/Maya.Ext.Func.Rop.ResultExtensionsAsync.html#Maya_Ext_Func_Rop_ResultExtensionsAsync_ValueOrAsync__2_Task_Maya_Ext_Rop_Result___0___1_____0_System_Boolean_
+  commentId: M:Maya.Ext.Func.Rop.ResultExtensionsAsync.ValueOrAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},``0,System.Boolean)
+  name.vb: ValueOrAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), TSuccess, Boolean)
+  fullName: Maya.Ext.Func.Rop.ResultExtensionsAsync.ValueOrAsync<TSuccess, TFailure>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, TSuccess, System.Boolean)
+  fullName.vb: Maya.Ext.Func.Rop.ResultExtensionsAsync.ValueOrAsync(Of TSuccess, TFailure)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), TSuccess, System.Boolean)
+  nameWithType: ResultExtensionsAsync.ValueOrAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, TSuccess, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.ValueOrAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), TSuccess, Boolean)
+- uid: Maya.Ext.Rop
+  name: Maya.Ext.Rop
+  href: api/Maya.Ext.Rop.html
+  commentId: N:Maya.Ext.Rop
+  fullName: Maya.Ext.Rop
+  nameWithType: Maya.Ext.Rop
+- uid: Maya.Ext.Rop.Result`2
+  name: Result<TSuccess, TFailure>
+  href: api/Maya.Ext.Rop.Result-2.html
+  commentId: T:Maya.Ext.Rop.Result`2
+  name.vb: Result(Of TSuccess, TFailure)
+  fullName: Maya.Ext.Rop.Result<TSuccess, TFailure>
+  fullName.vb: Maya.Ext.Rop.Result(Of TSuccess, TFailure)
+  nameWithType: Result<TSuccess, TFailure>
+  nameWithType.vb: Result(Of TSuccess, TFailure)
+- uid: Maya.Ext.Rop.Result`2.Failed(`1)
+  name: Failed(TFailure)
+  href: api/Maya.Ext.Rop.Result-2.html#Maya_Ext_Rop_Result_2_Failed__1_
+  commentId: M:Maya.Ext.Rop.Result`2.Failed(`1)
+  fullName: Maya.Ext.Rop.Result<TSuccess, TFailure>.Failed(TFailure)
+  fullName.vb: Maya.Ext.Rop.Result(Of TSuccess, TFailure).Failed(TFailure)
+  nameWithType: Result<TSuccess, TFailure>.Failed(TFailure)
+  nameWithType.vb: Result(Of TSuccess, TFailure).Failed(TFailure)
+- uid: Maya.Ext.Rop.Result`2.Failed*
+  name: Failed
+  href: api/Maya.Ext.Rop.Result-2.html#Maya_Ext_Rop_Result_2_Failed_
+  commentId: Overload:Maya.Ext.Rop.Result`2.Failed
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.Result<TSuccess, TFailure>.Failed
+  fullName.vb: Maya.Ext.Rop.Result(Of TSuccess, TFailure).Failed
+  nameWithType: Result<TSuccess, TFailure>.Failed
+  nameWithType.vb: Result(Of TSuccess, TFailure).Failed
+- uid: Maya.Ext.Rop.Result`2.Failure
+  name: Failure
+  href: api/Maya.Ext.Rop.Result-2.html#Maya_Ext_Rop_Result_2_Failure
+  commentId: P:Maya.Ext.Rop.Result`2.Failure
+  fullName: Maya.Ext.Rop.Result<TSuccess, TFailure>.Failure
+  fullName.vb: Maya.Ext.Rop.Result(Of TSuccess, TFailure).Failure
+  nameWithType: Result<TSuccess, TFailure>.Failure
+  nameWithType.vb: Result(Of TSuccess, TFailure).Failure
+- uid: Maya.Ext.Rop.Result`2.Failure*
+  name: Failure
+  href: api/Maya.Ext.Rop.Result-2.html#Maya_Ext_Rop_Result_2_Failure_
+  commentId: Overload:Maya.Ext.Rop.Result`2.Failure
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.Result<TSuccess, TFailure>.Failure
+  fullName.vb: Maya.Ext.Rop.Result(Of TSuccess, TFailure).Failure
+  nameWithType: Result<TSuccess, TFailure>.Failure
+  nameWithType.vb: Result(Of TSuccess, TFailure).Failure
+- uid: Maya.Ext.Rop.Result`2.IsFailure
+  name: IsFailure
+  href: api/Maya.Ext.Rop.Result-2.html#Maya_Ext_Rop_Result_2_IsFailure
+  commentId: P:Maya.Ext.Rop.Result`2.IsFailure
+  fullName: Maya.Ext.Rop.Result<TSuccess, TFailure>.IsFailure
+  fullName.vb: Maya.Ext.Rop.Result(Of TSuccess, TFailure).IsFailure
+  nameWithType: Result<TSuccess, TFailure>.IsFailure
+  nameWithType.vb: Result(Of TSuccess, TFailure).IsFailure
+- uid: Maya.Ext.Rop.Result`2.IsFailure*
+  name: IsFailure
+  href: api/Maya.Ext.Rop.Result-2.html#Maya_Ext_Rop_Result_2_IsFailure_
+  commentId: Overload:Maya.Ext.Rop.Result`2.IsFailure
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.Result<TSuccess, TFailure>.IsFailure
+  fullName.vb: Maya.Ext.Rop.Result(Of TSuccess, TFailure).IsFailure
+  nameWithType: Result<TSuccess, TFailure>.IsFailure
+  nameWithType.vb: Result(Of TSuccess, TFailure).IsFailure
+- uid: Maya.Ext.Rop.Result`2.IsSuccess
+  name: IsSuccess
+  href: api/Maya.Ext.Rop.Result-2.html#Maya_Ext_Rop_Result_2_IsSuccess
+  commentId: P:Maya.Ext.Rop.Result`2.IsSuccess
+  fullName: Maya.Ext.Rop.Result<TSuccess, TFailure>.IsSuccess
+  fullName.vb: Maya.Ext.Rop.Result(Of TSuccess, TFailure).IsSuccess
+  nameWithType: Result<TSuccess, TFailure>.IsSuccess
+  nameWithType.vb: Result(Of TSuccess, TFailure).IsSuccess
+- uid: Maya.Ext.Rop.Result`2.IsSuccess*
+  name: IsSuccess
+  href: api/Maya.Ext.Rop.Result-2.html#Maya_Ext_Rop_Result_2_IsSuccess_
+  commentId: Overload:Maya.Ext.Rop.Result`2.IsSuccess
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.Result<TSuccess, TFailure>.IsSuccess
+  fullName.vb: Maya.Ext.Rop.Result(Of TSuccess, TFailure).IsSuccess
+  nameWithType: Result<TSuccess, TFailure>.IsSuccess
+  nameWithType.vb: Result(Of TSuccess, TFailure).IsSuccess
+- uid: Maya.Ext.Rop.Result`2.Succeeded(`0)
+  name: Succeeded(TSuccess)
+  href: api/Maya.Ext.Rop.Result-2.html#Maya_Ext_Rop_Result_2_Succeeded__0_
+  commentId: M:Maya.Ext.Rop.Result`2.Succeeded(`0)
+  fullName: Maya.Ext.Rop.Result<TSuccess, TFailure>.Succeeded(TSuccess)
+  fullName.vb: Maya.Ext.Rop.Result(Of TSuccess, TFailure).Succeeded(TSuccess)
+  nameWithType: Result<TSuccess, TFailure>.Succeeded(TSuccess)
+  nameWithType.vb: Result(Of TSuccess, TFailure).Succeeded(TSuccess)
+- uid: Maya.Ext.Rop.Result`2.Succeeded*
+  name: Succeeded
+  href: api/Maya.Ext.Rop.Result-2.html#Maya_Ext_Rop_Result_2_Succeeded_
+  commentId: Overload:Maya.Ext.Rop.Result`2.Succeeded
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.Result<TSuccess, TFailure>.Succeeded
+  fullName.vb: Maya.Ext.Rop.Result(Of TSuccess, TFailure).Succeeded
+  nameWithType: Result<TSuccess, TFailure>.Succeeded
+  nameWithType.vb: Result(Of TSuccess, TFailure).Succeeded
+- uid: Maya.Ext.Rop.Result`2.Success
+  name: Success
+  href: api/Maya.Ext.Rop.Result-2.html#Maya_Ext_Rop_Result_2_Success
+  commentId: P:Maya.Ext.Rop.Result`2.Success
+  fullName: Maya.Ext.Rop.Result<TSuccess, TFailure>.Success
+  fullName.vb: Maya.Ext.Rop.Result(Of TSuccess, TFailure).Success
+  nameWithType: Result<TSuccess, TFailure>.Success
+  nameWithType.vb: Result(Of TSuccess, TFailure).Success
+- uid: Maya.Ext.Rop.Result`2.Success*
+  name: Success
+  href: api/Maya.Ext.Rop.Result-2.html#Maya_Ext_Rop_Result_2_Success_
+  commentId: Overload:Maya.Ext.Rop.Result`2.Success
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.Result<TSuccess, TFailure>.Success
+  fullName.vb: Maya.Ext.Rop.Result(Of TSuccess, TFailure).Success
+  nameWithType: Result<TSuccess, TFailure>.Success
+  nameWithType.vb: Result(Of TSuccess, TFailure).Success
+- uid: Maya.Ext.Rop.ResultExtensions
+  name: ResultExtensions
+  href: api/Maya.Ext.Rop.ResultExtensions.html
+  commentId: T:Maya.Ext.Rop.ResultExtensions
+  fullName: Maya.Ext.Rop.ResultExtensions
+  nameWithType: ResultExtensions
+- uid: Maya.Ext.Rop.ResultExtensions.Aggregate*
+  name: Aggregate
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_Aggregate_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensions.Aggregate
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensions.Aggregate
+  nameWithType: ResultExtensions.Aggregate
+- uid: Maya.Ext.Rop.ResultExtensions.Aggregate``2(IEnumerable{Maya.Ext.Rop.Result{``0,``1[]}})
+  name: Aggregate<TSuccess, TFailure>(IEnumerable<Result<TSuccess, TFailure[]>>)
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_Aggregate__2_IEnumerable_Maya_Ext_Rop_Result___0___1_____
+  commentId: M:Maya.Ext.Rop.ResultExtensions.Aggregate``2(IEnumerable{Maya.Ext.Rop.Result{``0,``1[]}})
+  name.vb: Aggregate(Of TSuccess, TFailure)(IEnumerable(Of Result(Of TSuccess, TFailure())))
+  fullName: Maya.Ext.Rop.ResultExtensions.Aggregate<TSuccess, TFailure>(IEnumerable<Maya.Ext.Rop.Result<TSuccess, TFailure[]>>)
+  fullName.vb: Maya.Ext.Rop.ResultExtensions.Aggregate(Of TSuccess, TFailure)(IEnumerable(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure())))
+  nameWithType: ResultExtensions.Aggregate<TSuccess, TFailure>(IEnumerable<Result<TSuccess, TFailure[]>>)
+  nameWithType.vb: ResultExtensions.Aggregate(Of TSuccess, TFailure)(IEnumerable(Of Result(Of TSuccess, TFailure())))
+- uid: Maya.Ext.Rop.ResultExtensions.Bind*
+  name: Bind
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_Bind_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensions.Bind
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensions.Bind
+  nameWithType: ResultExtensions.Bind
+- uid: Maya.Ext.Rop.ResultExtensions.Bind``3(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Maya.Ext.Rop.Result{``2,``1}})
+  name: Bind<TSuccess, TFailure, TSuccessNew>(Result<TSuccess, TFailure>, Func<TSuccess, Result<TSuccessNew, TFailure>>)
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_Bind__3_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func___0_Maya_Ext_Rop_Result___2___1___
+  commentId: M:Maya.Ext.Rop.ResultExtensions.Bind``3(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Maya.Ext.Rop.Result{``2,``1}})
+  name.vb: Bind(Of TSuccess, TFailure, TSuccessNew)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Result(Of TSuccessNew, TFailure)))
+  fullName: Maya.Ext.Rop.ResultExtensions.Bind<TSuccess, TFailure, TSuccessNew>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func<TSuccess, Maya.Ext.Rop.Result<TSuccessNew, TFailure>>)
+  fullName.vb: Maya.Ext.Rop.ResultExtensions.Bind(Of TSuccess, TFailure, TSuccessNew)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func(Of TSuccess, Maya.Ext.Rop.Result(Of TSuccessNew, TFailure)))
+  nameWithType: ResultExtensions.Bind<TSuccess, TFailure, TSuccessNew>(Result<TSuccess, TFailure>, Func<TSuccess, Result<TSuccessNew, TFailure>>)
+  nameWithType.vb: ResultExtensions.Bind(Of TSuccess, TFailure, TSuccessNew)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Result(Of TSuccessNew, TFailure)))
+- uid: Maya.Ext.Rop.ResultExtensions.Either*
+  name: Either
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_Either_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensions.Either
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensions.Either
+  nameWithType: ResultExtensions.Either
+- uid: Maya.Ext.Rop.ResultExtensions.Either``4(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Rop.Result{``2,``3}},Maya.Ext.Func{Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Rop.Result{``2,``3}})
+  name: Either<TSuccess, TFailure, TSuccess2, TFailure2>(Result<TSuccess, TFailure>, Func<Result<TSuccess, TFailure>, Result<TSuccess2, TFailure2>>, Func<Result<TSuccess, TFailure>, Result<TSuccess2, TFailure2>>)
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_Either__4_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func_Maya_Ext_Rop_Result___0___1__Maya_Ext_Rop_Result___2___3___Maya_Ext_Func_Maya_Ext_Rop_Result___0___1__Maya_Ext_Rop_Result___2___3___
+  commentId: M:Maya.Ext.Rop.ResultExtensions.Either``4(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Rop.Result{``2,``3}},Maya.Ext.Func{Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Rop.Result{``2,``3}})
+  name.vb: Either(Of TSuccess, TFailure, TSuccess2, TFailure2)(Result(Of TSuccess, TFailure), Func(Of Result(Of TSuccess, TFailure), Result(Of TSuccess2, TFailure2)), Func(Of Result(Of TSuccess, TFailure), Result(Of TSuccess2, TFailure2)))
+  fullName: Maya.Ext.Rop.ResultExtensions.Either<TSuccess, TFailure, TSuccess2, TFailure2>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func<Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Rop.Result<TSuccess2, TFailure2>>, Maya.Ext.Func<Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Rop.Result<TSuccess2, TFailure2>>)
+  fullName.vb: Maya.Ext.Rop.ResultExtensions.Either(Of TSuccess, TFailure, TSuccess2, TFailure2)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Rop.Result(Of TSuccess2, TFailure2)), Maya.Ext.Func(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Rop.Result(Of TSuccess2, TFailure2)))
+  nameWithType: ResultExtensions.Either<TSuccess, TFailure, TSuccess2, TFailure2>(Result<TSuccess, TFailure>, Func<Result<TSuccess, TFailure>, Result<TSuccess2, TFailure2>>, Func<Result<TSuccess, TFailure>, Result<TSuccess2, TFailure2>>)
+  nameWithType.vb: ResultExtensions.Either(Of TSuccess, TFailure, TSuccess2, TFailure2)(Result(Of TSuccess, TFailure), Func(Of Result(Of TSuccess, TFailure), Result(Of TSuccess2, TFailure2)), Func(Of Result(Of TSuccess, TFailure), Result(Of TSuccess2, TFailure2)))
+- uid: Maya.Ext.Rop.ResultExtensions.Handle*
+  name: Handle
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_Handle_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensions.Handle
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensions.Handle
+  nameWithType: ResultExtensions.Handle
+- uid: Maya.Ext.Rop.ResultExtensions.Handle``2(Maya.Ext.Rop.Result{``0,``1},Action{``0},Action{``1})
+  name: Handle<TSuccess, TFailure>(Result<TSuccess, TFailure>, Action<TSuccess>, Action<TFailure>)
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_Handle__2_Maya_Ext_Rop_Result___0___1__Action___0__Action___1__
+  commentId: M:Maya.Ext.Rop.ResultExtensions.Handle``2(Maya.Ext.Rop.Result{``0,``1},Action{``0},Action{``1})
+  name.vb: Handle(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Action(Of TSuccess), Action(Of TFailure))
+  fullName: Maya.Ext.Rop.ResultExtensions.Handle<TSuccess, TFailure>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Action<TSuccess>, Action<TFailure>)
+  fullName.vb: Maya.Ext.Rop.ResultExtensions.Handle(Of TSuccess, TFailure)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Action(Of TSuccess), Action(Of TFailure))
+  nameWithType: ResultExtensions.Handle<TSuccess, TFailure>(Result<TSuccess, TFailure>, Action<TSuccess>, Action<TFailure>)
+  nameWithType.vb: ResultExtensions.Handle(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Action(Of TSuccess), Action(Of TFailure))
+- uid: Maya.Ext.Rop.ResultExtensions.Map*
+  name: Map
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_Map_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensions.Map
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensions.Map
+  nameWithType: ResultExtensions.Map
+- uid: Maya.Ext.Rop.ResultExtensions.Map``3(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,``2})
+  name: Map<TSuccess, TFailure, TSuccessNew>(Result<TSuccess, TFailure>, Func<TSuccess, TSuccessNew>)
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_Map__3_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func___0___2__
+  commentId: M:Maya.Ext.Rop.ResultExtensions.Map``3(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,``2})
+  name.vb: Map(Of TSuccess, TFailure, TSuccessNew)(Result(Of TSuccess, TFailure), Func(Of TSuccess, TSuccessNew))
+  fullName: Maya.Ext.Rop.ResultExtensions.Map<TSuccess, TFailure, TSuccessNew>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func<TSuccess, TSuccessNew>)
+  fullName.vb: Maya.Ext.Rop.ResultExtensions.Map(Of TSuccess, TFailure, TSuccessNew)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func(Of TSuccess, TSuccessNew))
+  nameWithType: ResultExtensions.Map<TSuccess, TFailure, TSuccessNew>(Result<TSuccess, TFailure>, Func<TSuccess, TSuccessNew>)
+  nameWithType.vb: ResultExtensions.Map(Of TSuccess, TFailure, TSuccessNew)(Result(Of TSuccess, TFailure), Func(Of TSuccess, TSuccessNew))
+- uid: Maya.Ext.Rop.ResultExtensions.MatchFailureAction*
+  name: MatchFailureAction
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_MatchFailureAction_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensions.MatchFailureAction
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensions.MatchFailureAction
+  nameWithType: ResultExtensions.MatchFailureAction
+- uid: Maya.Ext.Rop.ResultExtensions.MatchFailureAction``2(Maya.Ext.Rop.Result{``0,``1},Action{``1})
+  name: MatchFailureAction<TSuccess, TFailure>(Result<TSuccess, TFailure>, Action<TFailure>)
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_MatchFailureAction__2_Maya_Ext_Rop_Result___0___1__Action___1__
+  commentId: M:Maya.Ext.Rop.ResultExtensions.MatchFailureAction``2(Maya.Ext.Rop.Result{``0,``1},Action{``1})
+  name.vb: MatchFailureAction(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Action(Of TFailure))
+  fullName: Maya.Ext.Rop.ResultExtensions.MatchFailureAction<TSuccess, TFailure>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Action<TFailure>)
+  fullName.vb: Maya.Ext.Rop.ResultExtensions.MatchFailureAction(Of TSuccess, TFailure)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Action(Of TFailure))
+  nameWithType: ResultExtensions.MatchFailureAction<TSuccess, TFailure>(Result<TSuccess, TFailure>, Action<TFailure>)
+  nameWithType.vb: ResultExtensions.MatchFailureAction(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Action(Of TFailure))
+- uid: Maya.Ext.Rop.ResultExtensions.MatchSuccessAction*
+  name: MatchSuccessAction
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_MatchSuccessAction_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensions.MatchSuccessAction
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensions.MatchSuccessAction
+  nameWithType: ResultExtensions.MatchSuccessAction
+- uid: Maya.Ext.Rop.ResultExtensions.MatchSuccessAction``2(Maya.Ext.Rop.Result{``0,``1},Action{``0})
+  name: MatchSuccessAction<TSuccess, TFailure>(Result<TSuccess, TFailure>, Action<TSuccess>)
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_MatchSuccessAction__2_Maya_Ext_Rop_Result___0___1__Action___0__
+  commentId: M:Maya.Ext.Rop.ResultExtensions.MatchSuccessAction``2(Maya.Ext.Rop.Result{``0,``1},Action{``0})
+  name.vb: MatchSuccessAction(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Action(Of TSuccess))
+  fullName: Maya.Ext.Rop.ResultExtensions.MatchSuccessAction<TSuccess, TFailure>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Action<TSuccess>)
+  fullName.vb: Maya.Ext.Rop.ResultExtensions.MatchSuccessAction(Of TSuccess, TFailure)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Action(Of TSuccess))
+  nameWithType: ResultExtensions.MatchSuccessAction<TSuccess, TFailure>(Result<TSuccess, TFailure>, Action<TSuccess>)
+  nameWithType.vb: ResultExtensions.MatchSuccessAction(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Action(Of TSuccess))
+- uid: Maya.Ext.Rop.ResultExtensions.Merge*
+  name: Merge
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_Merge_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensions.Merge
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensions.Merge
+  nameWithType: ResultExtensions.Merge
+- uid: Maya.Ext.Rop.ResultExtensions.Merge``2(Maya.Ext.Rop.Result{``0[],``1[]},Maya.Ext.Rop.Result{``0,``1[]})
+  name: Merge<TSuccess, TFailure>(Result<TSuccess[], TFailure[]>, Result<TSuccess, TFailure[]>)
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_Merge__2_Maya_Ext_Rop_Result___0_____1____Maya_Ext_Rop_Result___0___1____
+  commentId: M:Maya.Ext.Rop.ResultExtensions.Merge``2(Maya.Ext.Rop.Result{``0[],``1[]},Maya.Ext.Rop.Result{``0,``1[]})
+  name.vb: Merge(Of TSuccess, TFailure)(Result(Of TSuccess(), TFailure()), Result(Of TSuccess, TFailure()))
+  fullName: Maya.Ext.Rop.ResultExtensions.Merge<TSuccess, TFailure>(Maya.Ext.Rop.Result<TSuccess[], TFailure[]>, Maya.Ext.Rop.Result<TSuccess, TFailure[]>)
+  fullName.vb: Maya.Ext.Rop.ResultExtensions.Merge(Of TSuccess, TFailure)(Maya.Ext.Rop.Result(Of TSuccess(), TFailure()), Maya.Ext.Rop.Result(Of TSuccess, TFailure()))
+  nameWithType: ResultExtensions.Merge<TSuccess, TFailure>(Result<TSuccess[], TFailure[]>, Result<TSuccess, TFailure[]>)
+  nameWithType.vb: ResultExtensions.Merge(Of TSuccess, TFailure)(Result(Of TSuccess(), TFailure()), Result(Of TSuccess, TFailure()))
+- uid: Maya.Ext.Rop.ResultExtensions.Tee*
+  name: Tee
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_Tee_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensions.Tee
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensions.Tee
+  nameWithType: ResultExtensions.Tee
+- uid: Maya.Ext.Rop.ResultExtensions.Tee``2(Maya.Ext.Rop.Result{``0,``1},Action{``0})
+  name: Tee<TSuccess, TFailure>(Result<TSuccess, TFailure>, Action<TSuccess>)
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_Tee__2_Maya_Ext_Rop_Result___0___1__Action___0__
+  commentId: M:Maya.Ext.Rop.ResultExtensions.Tee``2(Maya.Ext.Rop.Result{``0,``1},Action{``0})
+  name.vb: Tee(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Action(Of TSuccess))
+  fullName: Maya.Ext.Rop.ResultExtensions.Tee<TSuccess, TFailure>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Action<TSuccess>)
+  fullName.vb: Maya.Ext.Rop.ResultExtensions.Tee(Of TSuccess, TFailure)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Action(Of TSuccess))
+  nameWithType: ResultExtensions.Tee<TSuccess, TFailure>(Result<TSuccess, TFailure>, Action<TSuccess>)
+  nameWithType.vb: ResultExtensions.Tee(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Action(Of TSuccess))
+- uid: Maya.Ext.Rop.ResultExtensions.ToFailure*
+  name: ToFailure
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_ToFailure_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensions.ToFailure
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensions.ToFailure
+  nameWithType: ResultExtensions.ToFailure
+- uid: Maya.Ext.Rop.ResultExtensions.ToFailure``2(Maya.Ext.Rop.Result{``0,``1[]})
+  name: ToFailure<TSuccess, TFailure>(Result<TSuccess, TFailure[]>)
+  href: api/Maya.Ext.Rop.ResultExtensions.html#Maya_Ext_Rop_ResultExtensions_ToFailure__2_Maya_Ext_Rop_Result___0___1____
+  commentId: M:Maya.Ext.Rop.ResultExtensions.ToFailure``2(Maya.Ext.Rop.Result{``0,``1[]})
+  name.vb: ToFailure(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure()))
+  fullName: Maya.Ext.Rop.ResultExtensions.ToFailure<TSuccess, TFailure>(Maya.Ext.Rop.Result<TSuccess, TFailure[]>)
+  fullName.vb: Maya.Ext.Rop.ResultExtensions.ToFailure(Of TSuccess, TFailure)(Maya.Ext.Rop.Result(Of TSuccess, TFailure()))
+  nameWithType: ResultExtensions.ToFailure<TSuccess, TFailure>(Result<TSuccess, TFailure[]>)
+  nameWithType.vb: ResultExtensions.ToFailure(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure()))
+- uid: Maya.Ext.Rop.ResultExtensionsAsync
+  name: ResultExtensionsAsync
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html
+  commentId: T:Maya.Ext.Rop.ResultExtensionsAsync
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync
+  nameWithType: ResultExtensionsAsync
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.BindAsync*
+  name: BindAsync
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_BindAsync_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensionsAsync.BindAsync
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.BindAsync
+  nameWithType: ResultExtensionsAsync.BindAsync
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.BindAsync``3(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task{Maya.Ext.Rop.Result{``2,``1}}},System.Boolean)
+  name: BindAsync<TSuccess, TFailure, TSuccessNew>(Result<TSuccess, TFailure>, Func<TSuccess, Task<Result<TSuccessNew, TFailure>>>, Boolean)
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_BindAsync__3_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func___0_Task_Maya_Ext_Rop_Result___2___1____System_Boolean_
+  commentId: M:Maya.Ext.Rop.ResultExtensionsAsync.BindAsync``3(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task{Maya.Ext.Rop.Result{``2,``1}}},System.Boolean)
+  name.vb: BindAsync(Of TSuccess, TFailure, TSuccessNew)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task(Of Result(Of TSuccessNew, TFailure))), Boolean)
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.BindAsync<TSuccess, TFailure, TSuccessNew>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func<TSuccess, Task<Maya.Ext.Rop.Result<TSuccessNew, TFailure>>>, System.Boolean)
+  fullName.vb: Maya.Ext.Rop.ResultExtensionsAsync.BindAsync(Of TSuccess, TFailure, TSuccessNew)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func(Of TSuccess, Task(Of Maya.Ext.Rop.Result(Of TSuccessNew, TFailure))), System.Boolean)
+  nameWithType: ResultExtensionsAsync.BindAsync<TSuccess, TFailure, TSuccessNew>(Result<TSuccess, TFailure>, Func<TSuccess, Task<Result<TSuccessNew, TFailure>>>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.BindAsync(Of TSuccess, TFailure, TSuccessNew)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task(Of Result(Of TSuccessNew, TFailure))), Boolean)
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.BindAsync``3(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task{Maya.Ext.Rop.Result{``2,``1}}},System.Boolean)
+  name: BindAsync<TSuccess, TFailure, TSuccessNew>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task<Result<TSuccessNew, TFailure>>>, Boolean)
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_BindAsync__3_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func___0_Task_Maya_Ext_Rop_Result___2___1____System_Boolean_
+  commentId: M:Maya.Ext.Rop.ResultExtensionsAsync.BindAsync``3(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task{Maya.Ext.Rop.Result{``2,``1}}},System.Boolean)
+  name.vb: BindAsync(Of TSuccess, TFailure, TSuccessNew)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task(Of Result(Of TSuccessNew, TFailure))), Boolean)
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.BindAsync<TSuccess, TFailure, TSuccessNew>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func<TSuccess, Task<Maya.Ext.Rop.Result<TSuccessNew, TFailure>>>, System.Boolean)
+  fullName.vb: Maya.Ext.Rop.ResultExtensionsAsync.BindAsync(Of TSuccess, TFailure, TSuccessNew)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func(Of TSuccess, Task(Of Maya.Ext.Rop.Result(Of TSuccessNew, TFailure))), System.Boolean)
+  nameWithType: ResultExtensionsAsync.BindAsync<TSuccess, TFailure, TSuccessNew>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task<Result<TSuccessNew, TFailure>>>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.BindAsync(Of TSuccess, TFailure, TSuccessNew)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task(Of Result(Of TSuccessNew, TFailure))), Boolean)
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.EitherAsync*
+  name: EitherAsync
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_EitherAsync_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensionsAsync.EitherAsync
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.EitherAsync
+  nameWithType: ResultExtensionsAsync.EitherAsync
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.EitherAsync``4(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task{Maya.Ext.Rop.Result{``2,``3}}},Maya.Ext.Func{``1,Task{Maya.Ext.Rop.Result{``2,``3}}},System.Boolean)
+  name: EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(Result<TSuccess, TFailure>, Func<TSuccess, Task<Result<TSuccess2, TFailure2>>>, Func<TFailure, Task<Result<TSuccess2, TFailure2>>>, Boolean)
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_EitherAsync__4_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func___0_Task_Maya_Ext_Rop_Result___2___3____Maya_Ext_Func___1_Task_Maya_Ext_Rop_Result___2___3____System_Boolean_
+  commentId: M:Maya.Ext.Rop.ResultExtensionsAsync.EitherAsync``4(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task{Maya.Ext.Rop.Result{``2,``3}}},Maya.Ext.Func{``1,Task{Maya.Ext.Rop.Result{``2,``3}}},System.Boolean)
+  name.vb: EitherAsync(Of TSuccess, TFailure, TSuccess2, TFailure2)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task(Of Result(Of TSuccess2, TFailure2))), Func(Of TFailure, Task(Of Result(Of TSuccess2, TFailure2))), Boolean)
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func<TSuccess, Task<Maya.Ext.Rop.Result<TSuccess2, TFailure2>>>, Maya.Ext.Func<TFailure, Task<Maya.Ext.Rop.Result<TSuccess2, TFailure2>>>, System.Boolean)
+  fullName.vb: Maya.Ext.Rop.ResultExtensionsAsync.EitherAsync(Of TSuccess, TFailure, TSuccess2, TFailure2)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func(Of TSuccess, Task(Of Maya.Ext.Rop.Result(Of TSuccess2, TFailure2))), Maya.Ext.Func(Of TFailure, Task(Of Maya.Ext.Rop.Result(Of TSuccess2, TFailure2))), System.Boolean)
+  nameWithType: ResultExtensionsAsync.EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(Result<TSuccess, TFailure>, Func<TSuccess, Task<Result<TSuccess2, TFailure2>>>, Func<TFailure, Task<Result<TSuccess2, TFailure2>>>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.EitherAsync(Of TSuccess, TFailure, TSuccess2, TFailure2)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task(Of Result(Of TSuccess2, TFailure2))), Func(Of TFailure, Task(Of Result(Of TSuccess2, TFailure2))), Boolean)
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.EitherAsync``4(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task{Maya.Ext.Rop.Result{``2,``3}}},Maya.Ext.Func{``1,Task{Maya.Ext.Rop.Result{``2,``3}}},System.Boolean)
+  name: EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task<Result<TSuccess2, TFailure2>>>, Func<TFailure, Task<Result<TSuccess2, TFailure2>>>, Boolean)
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_EitherAsync__4_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func___0_Task_Maya_Ext_Rop_Result___2___3____Maya_Ext_Func___1_Task_Maya_Ext_Rop_Result___2___3____System_Boolean_
+  commentId: M:Maya.Ext.Rop.ResultExtensionsAsync.EitherAsync``4(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task{Maya.Ext.Rop.Result{``2,``3}}},Maya.Ext.Func{``1,Task{Maya.Ext.Rop.Result{``2,``3}}},System.Boolean)
+  name.vb: EitherAsync(Of TSuccess, TFailure, TSuccess2, TFailure2)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task(Of Result(Of TSuccess2, TFailure2))), Func(Of TFailure, Task(Of Result(Of TSuccess2, TFailure2))), Boolean)
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func<TSuccess, Task<Maya.Ext.Rop.Result<TSuccess2, TFailure2>>>, Maya.Ext.Func<TFailure, Task<Maya.Ext.Rop.Result<TSuccess2, TFailure2>>>, System.Boolean)
+  fullName.vb: Maya.Ext.Rop.ResultExtensionsAsync.EitherAsync(Of TSuccess, TFailure, TSuccess2, TFailure2)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func(Of TSuccess, Task(Of Maya.Ext.Rop.Result(Of TSuccess2, TFailure2))), Maya.Ext.Func(Of TFailure, Task(Of Maya.Ext.Rop.Result(Of TSuccess2, TFailure2))), System.Boolean)
+  nameWithType: ResultExtensionsAsync.EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task<Result<TSuccess2, TFailure2>>>, Func<TFailure, Task<Result<TSuccess2, TFailure2>>>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.EitherAsync(Of TSuccess, TFailure, TSuccess2, TFailure2)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task(Of Result(Of TSuccess2, TFailure2))), Func(Of TFailure, Task(Of Result(Of TSuccess2, TFailure2))), Boolean)
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.EitherAsync``4(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Rop.Result{``2,``3}},Maya.Ext.Func{Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Rop.Result{``2,``3}})
+  name: EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(Task<Result<TSuccess, TFailure>>, Func<Result<TSuccess, TFailure>, Result<TSuccess2, TFailure2>>, Func<Result<TSuccess, TFailure>, Result<TSuccess2, TFailure2>>)
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_EitherAsync__4_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func_Maya_Ext_Rop_Result___0___1__Maya_Ext_Rop_Result___2___3___Maya_Ext_Func_Maya_Ext_Rop_Result___0___1__Maya_Ext_Rop_Result___2___3___
+  commentId: M:Maya.Ext.Rop.ResultExtensionsAsync.EitherAsync``4(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Rop.Result{``2,``3}},Maya.Ext.Func{Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Rop.Result{``2,``3}})
+  name.vb: EitherAsync(Of TSuccess, TFailure, TSuccess2, TFailure2)(Task(Of Result(Of TSuccess, TFailure)), Func(Of Result(Of TSuccess, TFailure), Result(Of TSuccess2, TFailure2)), Func(Of Result(Of TSuccess, TFailure), Result(Of TSuccess2, TFailure2)))
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func<Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Rop.Result<TSuccess2, TFailure2>>, Maya.Ext.Func<Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Rop.Result<TSuccess2, TFailure2>>)
+  fullName.vb: Maya.Ext.Rop.ResultExtensionsAsync.EitherAsync(Of TSuccess, TFailure, TSuccess2, TFailure2)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Rop.Result(Of TSuccess2, TFailure2)), Maya.Ext.Func(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Rop.Result(Of TSuccess2, TFailure2)))
+  nameWithType: ResultExtensionsAsync.EitherAsync<TSuccess, TFailure, TSuccess2, TFailure2>(Task<Result<TSuccess, TFailure>>, Func<Result<TSuccess, TFailure>, Result<TSuccess2, TFailure2>>, Func<Result<TSuccess, TFailure>, Result<TSuccess2, TFailure2>>)
+  nameWithType.vb: ResultExtensionsAsync.EitherAsync(Of TSuccess, TFailure, TSuccess2, TFailure2)(Task(Of Result(Of TSuccess, TFailure)), Func(Of Result(Of TSuccess, TFailure), Result(Of TSuccess2, TFailure2)), Func(Of Result(Of TSuccess, TFailure), Result(Of TSuccess2, TFailure2)))
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.HandleAsync*
+  name: HandleAsync
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_HandleAsync_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensionsAsync.HandleAsync
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.HandleAsync
+  nameWithType: ResultExtensionsAsync.HandleAsync
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.HandleAsync``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task},Action{``1},System.Boolean)
+  name: HandleAsync<TSuccess, TFailure>(Result<TSuccess, TFailure>, Func<TSuccess, Task>, Action<TFailure>, Boolean)
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_HandleAsync__2_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func___0_Task__Action___1__System_Boolean_
+  commentId: M:Maya.Ext.Rop.ResultExtensionsAsync.HandleAsync``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task},Action{``1},System.Boolean)
+  name.vb: HandleAsync(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task), Action(Of TFailure), Boolean)
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.HandleAsync<TSuccess, TFailure>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func<TSuccess, Task>, Action<TFailure>, System.Boolean)
+  fullName.vb: Maya.Ext.Rop.ResultExtensionsAsync.HandleAsync(Of TSuccess, TFailure)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func(Of TSuccess, Task), Action(Of TFailure), System.Boolean)
+  nameWithType: ResultExtensionsAsync.HandleAsync<TSuccess, TFailure>(Result<TSuccess, TFailure>, Func<TSuccess, Task>, Action<TFailure>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.HandleAsync(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task), Action(Of TFailure), Boolean)
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.HandleAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task},Action{``1},System.Boolean)
+  name: HandleAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task>, Action<TFailure>, Boolean)
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_HandleAsync__2_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func___0_Task__Action___1__System_Boolean_
+  commentId: M:Maya.Ext.Rop.ResultExtensionsAsync.HandleAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task},Action{``1},System.Boolean)
+  name.vb: HandleAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task), Action(Of TFailure), Boolean)
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.HandleAsync<TSuccess, TFailure>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func<TSuccess, Task>, Action<TFailure>, System.Boolean)
+  fullName.vb: Maya.Ext.Rop.ResultExtensionsAsync.HandleAsync(Of TSuccess, TFailure)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func(Of TSuccess, Task), Action(Of TFailure), System.Boolean)
+  nameWithType: ResultExtensionsAsync.HandleAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task>, Action<TFailure>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.HandleAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task), Action(Of TFailure), Boolean)
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.MapAsync*
+  name: MapAsync
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_MapAsync_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensionsAsync.MapAsync
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.MapAsync
+  nameWithType: ResultExtensionsAsync.MapAsync
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.MapAsync``3(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task{``2}},System.Boolean)
+  name: MapAsync<TSuccess, TFailure, TSuccessNew>(Result<TSuccess, TFailure>, Func<TSuccess, Task<TSuccessNew>>, Boolean)
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_MapAsync__3_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func___0_Task___2___System_Boolean_
+  commentId: M:Maya.Ext.Rop.ResultExtensionsAsync.MapAsync``3(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task{``2}},System.Boolean)
+  name.vb: MapAsync(Of TSuccess, TFailure, TSuccessNew)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task(Of TSuccessNew)), Boolean)
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.MapAsync<TSuccess, TFailure, TSuccessNew>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func<TSuccess, Task<TSuccessNew>>, System.Boolean)
+  fullName.vb: Maya.Ext.Rop.ResultExtensionsAsync.MapAsync(Of TSuccess, TFailure, TSuccessNew)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func(Of TSuccess, Task(Of TSuccessNew)), System.Boolean)
+  nameWithType: ResultExtensionsAsync.MapAsync<TSuccess, TFailure, TSuccessNew>(Result<TSuccess, TFailure>, Func<TSuccess, Task<TSuccessNew>>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.MapAsync(Of TSuccess, TFailure, TSuccessNew)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task(Of TSuccessNew)), Boolean)
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.MapAsync``3(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task{``2}},System.Boolean)
+  name: MapAsync<TSuccess, TFailure, TSuccessNew>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task<TSuccessNew>>, Boolean)
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_MapAsync__3_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func___0_Task___2___System_Boolean_
+  commentId: M:Maya.Ext.Rop.ResultExtensionsAsync.MapAsync``3(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task{``2}},System.Boolean)
+  name.vb: MapAsync(Of TSuccess, TFailure, TSuccessNew)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task(Of TSuccessNew)), Boolean)
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.MapAsync<TSuccess, TFailure, TSuccessNew>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func<TSuccess, Task<TSuccessNew>>, System.Boolean)
+  fullName.vb: Maya.Ext.Rop.ResultExtensionsAsync.MapAsync(Of TSuccess, TFailure, TSuccessNew)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func(Of TSuccess, Task(Of TSuccessNew)), System.Boolean)
+  nameWithType: ResultExtensionsAsync.MapAsync<TSuccess, TFailure, TSuccessNew>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task<TSuccessNew>>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.MapAsync(Of TSuccess, TFailure, TSuccessNew)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task(Of TSuccessNew)), Boolean)
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.MatchFailureAsync*
+  name: MatchFailureAsync
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_MatchFailureAsync_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensionsAsync.MatchFailureAsync
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.MatchFailureAsync
+  nameWithType: ResultExtensionsAsync.MatchFailureAsync
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.MatchFailureAsync``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``1,Task},System.Boolean)
+  name: MatchFailureAsync<TSuccess, TFailure>(Result<TSuccess, TFailure>, Func<TFailure, Task>, Boolean)
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_MatchFailureAsync__2_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func___1_Task__System_Boolean_
+  commentId: M:Maya.Ext.Rop.ResultExtensionsAsync.MatchFailureAsync``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``1,Task},System.Boolean)
+  name.vb: MatchFailureAsync(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Func(Of TFailure, Task), Boolean)
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.MatchFailureAsync<TSuccess, TFailure>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func<TFailure, Task>, System.Boolean)
+  fullName.vb: Maya.Ext.Rop.ResultExtensionsAsync.MatchFailureAsync(Of TSuccess, TFailure)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func(Of TFailure, Task), System.Boolean)
+  nameWithType: ResultExtensionsAsync.MatchFailureAsync<TSuccess, TFailure>(Result<TSuccess, TFailure>, Func<TFailure, Task>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.MatchFailureAsync(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Func(Of TFailure, Task), Boolean)
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.MatchFailureAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``1,Task},System.Boolean)
+  name: MatchFailureAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TFailure, Task>, Boolean)
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_MatchFailureAsync__2_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func___1_Task__System_Boolean_
+  commentId: M:Maya.Ext.Rop.ResultExtensionsAsync.MatchFailureAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``1,Task},System.Boolean)
+  name.vb: MatchFailureAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TFailure, Task), Boolean)
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.MatchFailureAsync<TSuccess, TFailure>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func<TFailure, Task>, System.Boolean)
+  fullName.vb: Maya.Ext.Rop.ResultExtensionsAsync.MatchFailureAsync(Of TSuccess, TFailure)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func(Of TFailure, Task), System.Boolean)
+  nameWithType: ResultExtensionsAsync.MatchFailureAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TFailure, Task>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.MatchFailureAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TFailure, Task), Boolean)
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.MatchSuccessAsync*
+  name: MatchSuccessAsync
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_MatchSuccessAsync_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensionsAsync.MatchSuccessAsync
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.MatchSuccessAsync
+  nameWithType: ResultExtensionsAsync.MatchSuccessAsync
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.MatchSuccessAsync``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task},System.Boolean)
+  name: MatchSuccessAsync<TSuccess, TFailure>(Result<TSuccess, TFailure>, Func<TSuccess, Task>, Boolean)
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_MatchSuccessAsync__2_Maya_Ext_Rop_Result___0___1__Maya_Ext_Func___0_Task__System_Boolean_
+  commentId: M:Maya.Ext.Rop.ResultExtensionsAsync.MatchSuccessAsync``2(Maya.Ext.Rop.Result{``0,``1},Maya.Ext.Func{``0,Task},System.Boolean)
+  name.vb: MatchSuccessAsync(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task), Boolean)
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.MatchSuccessAsync<TSuccess, TFailure>(Maya.Ext.Rop.Result<TSuccess, TFailure>, Maya.Ext.Func<TSuccess, Task>, System.Boolean)
+  fullName.vb: Maya.Ext.Rop.ResultExtensionsAsync.MatchSuccessAsync(Of TSuccess, TFailure)(Maya.Ext.Rop.Result(Of TSuccess, TFailure), Maya.Ext.Func(Of TSuccess, Task), System.Boolean)
+  nameWithType: ResultExtensionsAsync.MatchSuccessAsync<TSuccess, TFailure>(Result<TSuccess, TFailure>, Func<TSuccess, Task>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.MatchSuccessAsync(Of TSuccess, TFailure)(Result(Of TSuccess, TFailure), Func(Of TSuccess, Task), Boolean)
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.MatchSuccessAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task},System.Boolean)
+  name: MatchSuccessAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task>, Boolean)
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_MatchSuccessAsync__2_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func___0_Task__System_Boolean_
+  commentId: M:Maya.Ext.Rop.ResultExtensionsAsync.MatchSuccessAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task},System.Boolean)
+  name.vb: MatchSuccessAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task), Boolean)
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.MatchSuccessAsync<TSuccess, TFailure>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func<TSuccess, Task>, System.Boolean)
+  fullName.vb: Maya.Ext.Rop.ResultExtensionsAsync.MatchSuccessAsync(Of TSuccess, TFailure)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func(Of TSuccess, Task), System.Boolean)
+  nameWithType: ResultExtensionsAsync.MatchSuccessAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.MatchSuccessAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task), Boolean)
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.RunWhenFailureAsync*
+  name: RunWhenFailureAsync
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_RunWhenFailureAsync_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensionsAsync.RunWhenFailureAsync
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.RunWhenFailureAsync
+  nameWithType: ResultExtensionsAsync.RunWhenFailureAsync
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.RunWhenFailureAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Action{``1},System.Boolean)
+  name: RunWhenFailureAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Action<TFailure>, Boolean)
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_RunWhenFailureAsync__2_Task_Maya_Ext_Rop_Result___0___1___Action___1__System_Boolean_
+  commentId: M:Maya.Ext.Rop.ResultExtensionsAsync.RunWhenFailureAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Action{``1},System.Boolean)
+  name.vb: RunWhenFailureAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Action(Of TFailure), Boolean)
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.RunWhenFailureAsync<TSuccess, TFailure>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Action<TFailure>, System.Boolean)
+  fullName.vb: Maya.Ext.Rop.ResultExtensionsAsync.RunWhenFailureAsync(Of TSuccess, TFailure)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Action(Of TFailure), System.Boolean)
+  nameWithType: ResultExtensionsAsync.RunWhenFailureAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Action<TFailure>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.RunWhenFailureAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Action(Of TFailure), Boolean)
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.RunWhenFailureAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``1,Task},System.Boolean)
+  name: RunWhenFailureAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TFailure, Task>, Boolean)
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_RunWhenFailureAsync__2_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func___1_Task__System_Boolean_
+  commentId: M:Maya.Ext.Rop.ResultExtensionsAsync.RunWhenFailureAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``1,Task},System.Boolean)
+  name.vb: RunWhenFailureAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TFailure, Task), Boolean)
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.RunWhenFailureAsync<TSuccess, TFailure>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func<TFailure, Task>, System.Boolean)
+  fullName.vb: Maya.Ext.Rop.ResultExtensionsAsync.RunWhenFailureAsync(Of TSuccess, TFailure)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func(Of TFailure, Task), System.Boolean)
+  nameWithType: ResultExtensionsAsync.RunWhenFailureAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TFailure, Task>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.RunWhenFailureAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TFailure, Task), Boolean)
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.RunWhenSuccessAsync*
+  name: RunWhenSuccessAsync
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_RunWhenSuccessAsync_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensionsAsync.RunWhenSuccessAsync
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.RunWhenSuccessAsync
+  nameWithType: ResultExtensionsAsync.RunWhenSuccessAsync
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.RunWhenSuccessAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Action{``0},System.Boolean)
+  name: RunWhenSuccessAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Action<TSuccess>, Boolean)
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_RunWhenSuccessAsync__2_Task_Maya_Ext_Rop_Result___0___1___Action___0__System_Boolean_
+  commentId: M:Maya.Ext.Rop.ResultExtensionsAsync.RunWhenSuccessAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Action{``0},System.Boolean)
+  name.vb: RunWhenSuccessAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Action(Of TSuccess), Boolean)
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.RunWhenSuccessAsync<TSuccess, TFailure>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Action<TSuccess>, System.Boolean)
+  fullName.vb: Maya.Ext.Rop.ResultExtensionsAsync.RunWhenSuccessAsync(Of TSuccess, TFailure)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Action(Of TSuccess), System.Boolean)
+  nameWithType: ResultExtensionsAsync.RunWhenSuccessAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Action<TSuccess>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.RunWhenSuccessAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Action(Of TSuccess), Boolean)
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.RunWhenSuccessAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task},System.Boolean)
+  name: RunWhenSuccessAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task>, Boolean)
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_RunWhenSuccessAsync__2_Task_Maya_Ext_Rop_Result___0___1___Maya_Ext_Func___0_Task__System_Boolean_
+  commentId: M:Maya.Ext.Rop.ResultExtensionsAsync.RunWhenSuccessAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},Maya.Ext.Func{``0,Task},System.Boolean)
+  name.vb: RunWhenSuccessAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task), Boolean)
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.RunWhenSuccessAsync<TSuccess, TFailure>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, Maya.Ext.Func<TSuccess, Task>, System.Boolean)
+  fullName.vb: Maya.Ext.Rop.ResultExtensionsAsync.RunWhenSuccessAsync(Of TSuccess, TFailure)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), Maya.Ext.Func(Of TSuccess, Task), System.Boolean)
+  nameWithType: ResultExtensionsAsync.RunWhenSuccessAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, Func<TSuccess, Task>, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.RunWhenSuccessAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), Func(Of TSuccess, Task), Boolean)
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.ValueOrAsync*
+  name: ValueOrAsync
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_ValueOrAsync_
+  commentId: Overload:Maya.Ext.Rop.ResultExtensionsAsync.ValueOrAsync
+  isSpec: "True"
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.ValueOrAsync
+  nameWithType: ResultExtensionsAsync.ValueOrAsync
+- uid: Maya.Ext.Rop.ResultExtensionsAsync.ValueOrAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},``0,System.Boolean)
+  name: ValueOrAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, TSuccess, Boolean)
+  href: api/Maya.Ext.Rop.ResultExtensionsAsync.html#Maya_Ext_Rop_ResultExtensionsAsync_ValueOrAsync__2_Task_Maya_Ext_Rop_Result___0___1_____0_System_Boolean_
+  commentId: M:Maya.Ext.Rop.ResultExtensionsAsync.ValueOrAsync``2(Task{Maya.Ext.Rop.Result{``0,``1}},``0,System.Boolean)
+  name.vb: ValueOrAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), TSuccess, Boolean)
+  fullName: Maya.Ext.Rop.ResultExtensionsAsync.ValueOrAsync<TSuccess, TFailure>(Task<Maya.Ext.Rop.Result<TSuccess, TFailure>>, TSuccess, System.Boolean)
+  fullName.vb: Maya.Ext.Rop.ResultExtensionsAsync.ValueOrAsync(Of TSuccess, TFailure)(Task(Of Maya.Ext.Rop.Result(Of TSuccess, TFailure)), TSuccess, System.Boolean)
+  nameWithType: ResultExtensionsAsync.ValueOrAsync<TSuccess, TFailure>(Task<Result<TSuccess, TFailure>>, TSuccess, Boolean)
+  nameWithType.vb: ResultExtensionsAsync.ValueOrAsync(Of TSuccess, TFailure)(Task(Of Result(Of TSuccess, TFailure)), TSuccess, Boolean)
+- uid: Maya.Ext.TaskUtilities
+  name: Maya.Ext.TaskUtilities
+  href: api/Maya.Ext.TaskUtilities.html
+  commentId: N:Maya.Ext.TaskUtilities
+  fullName: Maya.Ext.TaskUtilities
+  nameWithType: Maya.Ext.TaskUtilities
+- uid: Maya.Ext.TaskUtilities.TaskExtension
+  name: TaskExtension
+  href: api/Maya.Ext.TaskUtilities.TaskExtension.html
+  commentId: T:Maya.Ext.TaskUtilities.TaskExtension
+  fullName: Maya.Ext.TaskUtilities.TaskExtension
+  nameWithType: TaskExtension
+- uid: Maya.Ext.TaskUtilities.TaskExtension.WhenAll(Task[])
+  name: WhenAll(Task[])
+  href: api/Maya.Ext.TaskUtilities.TaskExtension.html#Maya_Ext_TaskUtilities_TaskExtension_WhenAll_Task___
+  commentId: M:Maya.Ext.TaskUtilities.TaskExtension.WhenAll(Task[])
+  name.vb: WhenAll(Task())
+  fullName: Maya.Ext.TaskUtilities.TaskExtension.WhenAll(Task[])
+  fullName.vb: Maya.Ext.TaskUtilities.TaskExtension.WhenAll(Task())
+  nameWithType: TaskExtension.WhenAll(Task[])
+  nameWithType.vb: TaskExtension.WhenAll(Task())
+- uid: Maya.Ext.TaskUtilities.TaskExtension.WhenAll(Task{Maya.Ext.Unit}[])
+  name: WhenAll(Task<Unit>[])
+  href: api/Maya.Ext.TaskUtilities.TaskExtension.html#Maya_Ext_TaskUtilities_TaskExtension_WhenAll_Task_Maya_Ext_Unit____
+  commentId: M:Maya.Ext.TaskUtilities.TaskExtension.WhenAll(Task{Maya.Ext.Unit}[])
+  name.vb: WhenAll(Task(Of Unit)())
+  fullName: Maya.Ext.TaskUtilities.TaskExtension.WhenAll(Task<Maya.Ext.Unit>[])
+  fullName.vb: Maya.Ext.TaskUtilities.TaskExtension.WhenAll(Task(Of Maya.Ext.Unit)())
+  nameWithType: TaskExtension.WhenAll(Task<Unit>[])
+  nameWithType.vb: TaskExtension.WhenAll(Task(Of Unit)())
+- uid: Maya.Ext.TaskUtilities.TaskExtension.WhenAll*
+  name: WhenAll
+  href: api/Maya.Ext.TaskUtilities.TaskExtension.html#Maya_Ext_TaskUtilities_TaskExtension_WhenAll_
+  commentId: Overload:Maya.Ext.TaskUtilities.TaskExtension.WhenAll
+  isSpec: "True"
+  fullName: Maya.Ext.TaskUtilities.TaskExtension.WhenAll
+  nameWithType: TaskExtension.WhenAll
+- uid: Maya.Ext.TaskUtilities.TaskExtension.WhenAll``1(Task{``0}[])
+  name: WhenAll<T>(Task<T>[])
+  href: api/Maya.Ext.TaskUtilities.TaskExtension.html#Maya_Ext_TaskUtilities_TaskExtension_WhenAll__1_Task___0____
+  commentId: M:Maya.Ext.TaskUtilities.TaskExtension.WhenAll``1(Task{``0}[])
+  name.vb: WhenAll(Of T)(Task(Of T)())
+  fullName: Maya.Ext.TaskUtilities.TaskExtension.WhenAll<T>(Task<T>[])
+  fullName.vb: Maya.Ext.TaskUtilities.TaskExtension.WhenAll(Of T)(Task(Of T)())
+  nameWithType: TaskExtension.WhenAll<T>(Task<T>[])
+  nameWithType.vb: TaskExtension.WhenAll(Of T)(Task(Of T)())
+- uid: Maya.Ext.Unit
+  name: Unit
+  href: api/Maya.Ext.Unit.html
+  commentId: T:Maya.Ext.Unit
+  fullName: Maya.Ext.Unit
+  nameWithType: Unit
+- uid: Maya.Ext.Unit.Default
+  name: Default
+  href: api/Maya.Ext.Unit.html#Maya_Ext_Unit_Default
+  commentId: F:Maya.Ext.Unit.Default
+  fullName: Maya.Ext.Unit.Default
+  nameWithType: Unit.Default
+- uid: Maya.Ext.Unit.Equals(Maya.Ext.Unit)
+  name: Equals(Unit)
+  href: api/Maya.Ext.Unit.html#Maya_Ext_Unit_Equals_Maya_Ext_Unit_
+  commentId: M:Maya.Ext.Unit.Equals(Maya.Ext.Unit)
+  fullName: Maya.Ext.Unit.Equals(Maya.Ext.Unit)
+  nameWithType: Unit.Equals(Unit)
+- uid: Maya.Ext.Unit.Equals(System.Nullable{System.Object})
+  name: Equals(Nullable<Object>)
+  href: api/Maya.Ext.Unit.html#Maya_Ext_Unit_Equals_System_Nullable_System_Object__
+  commentId: M:Maya.Ext.Unit.Equals(System.Nullable{System.Object})
+  name.vb: Equals(Nullable(Of Object))
+  fullName: Maya.Ext.Unit.Equals(System.Nullable<System.Object>)
+  fullName.vb: Maya.Ext.Unit.Equals(System.Nullable(Of System.Object))
+  nameWithType: Unit.Equals(Nullable<Object>)
+  nameWithType.vb: Unit.Equals(Nullable(Of Object))
+- uid: Maya.Ext.Unit.Equals*
+  name: Equals
+  href: api/Maya.Ext.Unit.html#Maya_Ext_Unit_Equals_
+  commentId: Overload:Maya.Ext.Unit.Equals
+  isSpec: "True"
+  fullName: Maya.Ext.Unit.Equals
+  nameWithType: Unit.Equals
+- uid: Maya.Ext.Unit.GetHashCode
+  name: GetHashCode()
+  href: api/Maya.Ext.Unit.html#Maya_Ext_Unit_GetHashCode
+  commentId: M:Maya.Ext.Unit.GetHashCode
+  fullName: Maya.Ext.Unit.GetHashCode()
+  nameWithType: Unit.GetHashCode()
+- uid: Maya.Ext.Unit.GetHashCode*
+  name: GetHashCode
+  href: api/Maya.Ext.Unit.html#Maya_Ext_Unit_GetHashCode_
+  commentId: Overload:Maya.Ext.Unit.GetHashCode
+  isSpec: "True"
+  fullName: Maya.Ext.Unit.GetHashCode
+  nameWithType: Unit.GetHashCode
+- uid: Maya.Ext.Unit.op_Equality(Maya.Ext.Unit,Maya.Ext.Unit)
+  name: Equality(Unit, Unit)
+  href: api/Maya.Ext.Unit.html#Maya_Ext_Unit_op_Equality_Maya_Ext_Unit_Maya_Ext_Unit_
+  commentId: M:Maya.Ext.Unit.op_Equality(Maya.Ext.Unit,Maya.Ext.Unit)
+  fullName: Maya.Ext.Unit.Equality(Maya.Ext.Unit, Maya.Ext.Unit)
+  nameWithType: Unit.Equality(Unit, Unit)
+- uid: Maya.Ext.Unit.op_Equality*
+  name: Equality
+  href: api/Maya.Ext.Unit.html#Maya_Ext_Unit_op_Equality_
+  commentId: Overload:Maya.Ext.Unit.op_Equality
+  isSpec: "True"
+  fullName: Maya.Ext.Unit.Equality
+  nameWithType: Unit.Equality
+- uid: Maya.Ext.Unit.op_Inequality(Maya.Ext.Unit,Maya.Ext.Unit)
+  name: Inequality(Unit, Unit)
+  href: api/Maya.Ext.Unit.html#Maya_Ext_Unit_op_Inequality_Maya_Ext_Unit_Maya_Ext_Unit_
+  commentId: M:Maya.Ext.Unit.op_Inequality(Maya.Ext.Unit,Maya.Ext.Unit)
+  fullName: Maya.Ext.Unit.Inequality(Maya.Ext.Unit, Maya.Ext.Unit)
+  nameWithType: Unit.Inequality(Unit, Unit)
+- uid: Maya.Ext.Unit.op_Inequality*
+  name: Inequality
+  href: api/Maya.Ext.Unit.html#Maya_Ext_Unit_op_Inequality_
+  commentId: Overload:Maya.Ext.Unit.op_Inequality
+  isSpec: "True"
+  fullName: Maya.Ext.Unit.Inequality
+  nameWithType: Unit.Inequality
+- uid: Maya.Ext.Unit.ToString
+  name: ToString()
+  href: api/Maya.Ext.Unit.html#Maya_Ext_Unit_ToString
+  commentId: M:Maya.Ext.Unit.ToString
+  fullName: Maya.Ext.Unit.ToString()
+  nameWithType: Unit.ToString()
+- uid: Maya.Ext.Unit.ToString*
+  name: ToString
+  href: api/Maya.Ext.Unit.html#Maya_Ext_Unit_ToString_
+  commentId: Overload:Maya.Ext.Unit.ToString
+  isSpec: "True"
+  fullName: Maya.Ext.Unit.ToString
+  nameWithType: Unit.ToString
